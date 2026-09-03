@@ -1,0 +1,1101 @@
+Building_ID,Building_Type,Governorate,Neighborhood,Day_of_Week,Occupancy_Level,Appliances_Usage_Level,SquareFootage,Last_Maintenance_Date,Average_Temperature,Energy_Consumption
+BLD-1000-UD,Residential,Alexandria,Smouha,WeDnesday,High,Low,7063m2,2020-01-01,28.61,2713.95 kWh
+BLD-1001-AX,Commercial,Giza,+Mohandessin14,tuesDAY,High,High,44372m2,2022-02-24,,5744.99 kWh
+BLD-1002-IH,Industrial,Cairo,New Cairo,SunDay,Medium,Low,19255,2021-02-22,37.88,4101.24 kWh
+BLD-1003-HE,,,+92Dokki,TuesDay,Low,High,13265,2023-07-30,35.06,3009.14 kWh
+BLD-1004-XD,Commercial,Alexandria,Smouha,Monday,Low,Low,13375,2022-08-12,28.82,3279.17 kWh
+BLD-1005-VX,Commercial,,%9New Cairo,SunDay,Low,Medium,37377m2,2022-07-31,37.54,4687.67 kWh
+BLD-1006-RC,Industrial,Cairo,Heliopolis_59,saturDAY,High,Low,38638m2,2023-07-07,50.0,5526.83 kWh
+BLD-1007-SN,Residential,Cairo,New Cairo,tuesDAY,Medium,Low,34950m2,2020-07-29,38.51,4116.32 kWh
+BLD-1008-BA,Industrial,Alexandria,Gleem(23,MoNday,High,High,29741m2,2024-12-31,43.62,5841.65 kWh
+BLD-1009-CG,Residential,,=Mohandessin10,FRIDAY,Medium,High,17467,2023-01-14,33.18,3419.13 kWh
+BLD-1010-HQ,Commercial,Cairo,New Cairo,SUNDAY,High,Low,27702m2,2024-04-20,34.22,4318.61 kWh
+BLD-1011-TA,Commercial,Alexandria,*36Smouha,friDAY,Low,High,47265m2,2023-10-28,39.71,5206.34 kWh
+BLD-1012-RG,,Cairo,Heliopolis$34,THURSDAY,High,Medium,19139,2020-02-24,35.86,4070.21 kWh
+BLD-1013-WU,Residential,Giza,-92Mohandessin,Sunday,Low,Low,17820,2020-05-15,20.0,2571.98 kWh
+BLD-1014-WR,Residential,Giza,(75Mohandessin,sunday,High,Medium,45868m2,2023-10-15,-0.66,5031.14 kWh
+BLD-1015-NH,Commercial,,)Gleem25,SuNday,Medium,High,9578,2021-07-01,31.13,3891.12 kWh
+BLD-1016-OS,Commercial,Cairo,)Maadi19,TuesDay,Medium,High,4310,2023-12-14,25.83,3362.42 kWh
+BLD-1017-IZ,Industrial,Cairo,*34Heliopolis,Saturday,High,Medium,38446m2,2021-12-07,,5672.37 kWh
+BLD-1018-AY,Industrial,,Gleem_8,tuesDAY,Medium,Medium,7460m2,2020-04-17,27.55,3563.67 kWh
+BLD-1019-ZF,Residential,Alexandria,)84Smouha,sunday,Low,High,10880m2,2023-08-31,22.29,3080.67 kWh
+BLD-1020-WN,Commercial,Alexandria,-42Gleem,THursday,Low,High,37912m2,2022-01-16,,4993.7 kWh
+BLD-1021-KI,Industrial,Giza,Dokki,MonDay,High,High,14699,2021-08-08,37.96,4750.37 kWh
+BLD-1022-EG,Industrial,Giza,*Mohandessin93,thursday,Medium,Medium,18274,2020-09-28,35.47,4134.35 kWh
+BLD-1023-YK,Commercial,Giza,Dokki,Sunday,Medium,Low,23898,2022-10-10,27.49,3930.14 kWh
+BLD-1024-DC,Residential,Cairo,New Cairo$29,saturday,Medium,Medium,41498m2,2023-01-29,34.43,4411.53 kWh
+BLD-1025-MD,Industrial,Alexandria,=Smouha43,FRIDAY,Low,Low,41238,2021-01-05,39.86,4812.15 kWh
+BLD-1026-LL,Residential,,Smouha,Saturday,Low,Low,35611m2,2024-01-26,25.08,3342.21 kWh
+BLD-1027-TI,Industrial,Giza,Mohandessin,TuesDay,Medium,Low,49653m2,2024-05-20,46.89,5754.96 kWh
+BLD-1028-ZB,Residential,Giza,Dokki,saturDAY,Medium,Low,30259m2,2021-12-20,28.95,3566.01 kWh
+BLD-1029-XO,Residential,Giza,Mohandessin,SUNDAY,Low,Medium,27072,2020-01-01,29.37,3409.14 kWh
+BLD-1030-RD,Commercial,Cairo,-86Heliopolis,FriDay,High,High,13499m2,2020-09-26,33.05,4230.09 kWh
+BLD-1031-MC,Residential,Alexandria,Smouha^21,saturday,Low,High,46749m2,2021-04-22,47.01,4700.42 kWh
+BLD-1032-RJ,,Alexandria,$11Smouha,WEDNESDAY,Low,Medium,22931,2023-04-06,34.23,3991.89 kWh
+BLD-1033-UT,Industrial,Giza,)35Mohandessin,SaturDay,Low,Low,29341,2020-02-24,30.75,4190.25 kWh
+BLD-1034-LS,,,Dokki,Tuesday,Low,Medium,3800,2020-01-01,26.93,2205.2 kWh
+BLD-1035-GW,Residential,Cairo,Maadi@45,thursday,Medium,Low,49094m2,2021-10-11,31.84,4483.83 kWh
+BLD-1036-CB,Residential,Alexandria,_Gleem84,FriDay,Low,Medium,10403,2020-07-18,,2733.45 kWh
+BLD-1037-VH,Industrial,Alexandria,Gleem,saturday,High,Medium,31919m2,2022-09-26,32.65,5151.75 kWh
+BLD-1038-YJ,Residential,Cairo,*3Heliopolis,SunDay,Medium,Low,1841m2,2020-01-01,20.0,2086.62 kWh
+BLD-1039-CH,Residential,Giza,Dokki,friDAY,Medium,High,42188,2022-05-07,41.65,5038.34 kWh
+BLD-1040-DM,Industrial,Alexandria,Smouha#34,Sunday,High,Medium,20920,2024-12-31,43.18,4892.22 kWh
+BLD-1041-IO,Commercial,Alexandria,)Gleem16,THURSDAY,Medium,High,12093m2,2020-08-28,,3882.94 kWh
+BLD-1042-UL,Residential,Alexandria,%95Gleem,SunDay,High,Medium,27845m2,2022-11-30,33.91,4015.46 kWh
+BLD-1043-FL,,Cairo,Heliopolis,sunday,Low,Medium,36832m2,2020-06-05,32.89,3985.45 kWh
+BLD-1044-LG,Industrial,,$Gleem6,Monday,High,High,45162,2022-11-12,-4.77,6493.48 kWh
+BLD-1045-VI,Industrial,Cairo,New Cairo=38,THURSDAY,High,Medium,14105m2,2024-03-01,33.76,4430.49 kWh
+BLD-1046-WV,Industrial,Alexandria,%Gleem6,sunday,High,Low,34914m2,2024-12-31,41.11,5428.56 kWh
+BLD-1047-UC,Residential,Alexandria,_6Gleem,Friday,Medium,Low,16025,2023-01-29,32.37,2914.3 kWh
+BLD-1048-TU,Industrial,,*39New Cairo,sunday,Low,High,49043m2,2024-12-31,48.44,6028.93 kWh
+BLD-1049-FR,Residential,Giza,Mohandessin=88,SuNday,Medium,Low,29898m2,2020-01-05,25.11,3791.16 kWh
+BLD-1050-XH,Residential,,New Cairo)93,FRIday,High,High,12615m2,2022-01-07,35.01,3872.54 kWh
+BLD-1051-FO,Commercial,Cairo,%23Maadi,Thursday,Low,Medium,3308m2,2020-01-01,24.07,2621.96 kWh
+BLD-1052-MI,Industrial,Cairo,+Heliopolis29,MONDAY,Low,Low,35031,2022-08-24,-4.91,4526.12 kWh
+BLD-1053-UW,Residential,,Gleem,SATURDAY,High,Low,3211m2,2020-01-01,27.8,2499 kWh
+BLD-1054-RH,Residential,Cairo,New Cairo,sunday,Low,Low,10496m2,2020-09-22,29.18,2417.11 kWh
+BLD-1055-VK,Industrial,Giza,Dokki,Friday,Low,Medium,49997,2024-06-14,47.85,5505.97 kWh
+BLD-1056-YY,Industrial,Cairo,+New Cairo9,SunDay,Low,High,38697,2024-12-31,37.58,5134.71 kWh
+BLD-1057-BH,Industrial,Alexandria,Smouha,SuNday,High,High,36484,2022-07-17,44.05,5794.31 kWh
+BLD-1058-BZ,Industrial,Cairo,Heliopolis$17,SATURDAY,Low,Low,28587,2020-07-18,37.87,4329.5 kWh
+BLD-1059-KM,Industrial,Giza,)Mohandessin21,SaTurday,High,Low,28880,2023-04-02,,4923.27 kWh
+BLD-1060-IC,,,*98Gleem,FriDay,Low,High,7559m2,2022-05-01,32.35,4027.56 kWh
+BLD-1061-GS,Commercial,Cairo,Heliopolis-35,MoNday,High,Medium,6590m2,2021-02-08,31.97,3753.31 kWh
+BLD-1062-WK,Industrial,,%Dokki5,saturDAY,High,Medium,44528m2,2024-12-31,40.93,5868.84 kWh
+BLD-1063-GU,Commercial,Alexandria,-Smouha37,wednesday,Medium,Medium,6288m2,2020-01-01,22.57,2968.2 kWh
+BLD-1064-PM,Residential,,Smouha,sunday,High,High,9627m2,2021-10-25,34.97,3511.71 kWh
+BLD-1065-UO,Commercial,Cairo,*50New Cairo,saturday,Low,Medium,36868,2021-08-14,42.34,4307.72 kWh
+BLD-1066-EI,Commercial,Alexandria,Gleem,Sunday,Low,High,6859m2,2021-01-02,30.32,3403.93 kWh
+BLD-1067-EH,Residential,Alexandria,Smouha@75,SATURDAY,Medium,High,35988m2,2021-05-08,43.33,4722.68 kWh
+BLD-1068-XR,Residential,Cairo,#67Maadi,MONDAY,High,Low,18185,2024-04-14,33.37,3580.93 kWh
+BLD-1069-RI,Industrial,,)20New Cairo,sunDAY,Medium,Medium,35633m2,2024-12-31,37.88,5042.08 kWh
+BLD-1070-XS,,Cairo,Maadi#72,monDAY,High,High,45359m2,2024-12-31,49.17,6133.65 kWh
+BLD-1071-NS,Industrial,Giza,Dokki,tuesDAY,Low,Medium,36335m2,2023-03-15,,4999.76 kWh
+BLD-1072-ML,,Cairo,New Cairo)94,sunDAY,Low,Medium,11844m2,2022-05-18,24.59,2451.63 kWh
+BLD-1073-HE,Industrial,Alexandria,&98Smouha,SunDay,High,High,12454m2,2020-09-16,43.58,4355.96 kWh
+BLD-1074-QP,Commercial,,&15Gleem,wednesday,High,Low,13581m2,2022-08-22,20.0,3495.35 kWh
+BLD-1075-CY,,Cairo,Maadi,Saturday,Medium,High,27428m2,2023-02-26,44.49,5043.32 kWh
+BLD-1076-BD,Commercial,Giza,Mohandessin=35,SUNDAY,Low,High,16004m2,2024-08-13,34.21,3915.71 kWh
+BLD-1077-EU,Commercial,Cairo,Maadi,Thursday,Low,Low,48351,2024-12-04,37.6,4745.47 kWh
+BLD-1078-FZ,Industrial,,Heliopolis_93,monday,Medium,Low,37880,2021-08-05,40.59,4944.4 kWh
+BLD-1079-VN,Industrial,Giza,Mohandessin!22,thursday,Medium,Low,47181,2024-10-05,,5571.47 kWh
+BLD-1080-TC,Commercial,Cairo,_New Cairo36,FRIDAY,High,Low,13587m2,2021-06-23,30.51,3540.91 kWh
+BLD-1081-MM,Industrial,,Maadi!56,WednesDay,Medium,High,14882,2022-12-16,38.64,4435.54 kWh
+BLD-1082-TO,Commercial,Alexandria,Smouha-74,WeDnesday,Medium,Medium,49038m2,2024-12-31,49.4,5359.38 kWh
+BLD-1083-QI,Residential,Cairo,(Heliopolis86,friDAY,High,Low,41470m2,2021-04-21,33.8,4290.61 kWh
+BLD-1084-RA,Commercial,Alexandria,=88Smouha,TuesDay,Medium,Medium,20579m2,2023-09-20,29.38,3787.26 kWh
+BLD-1085-VX,Residential,,#66Gleem,friday,Medium,Medium,25780m2,2020-01-01,31.63,3927.94 kWh
+BLD-1086-DV,Industrial,,New Cairo#9,thursday,Low,Low,44909,2024-12-31,43.44,4805.17 kWh
+BLD-1087-RY,Residential,Alexandria,Gleem,SaturDay,Low,High,2259m2,2022-12-21,27.2,2608.53 kWh
+BLD-1088-IY,Residential,Giza,Mohandessin&41,tuesDAY,Low,Medium,6654,2020-01-22,22.65,2497.72 kWh
+BLD-1089-UK,Commercial,Giza,_Dokki6,thursDAY,Low,Medium,13303m2,2023-11-25,33.23,3448.03 kWh
+BLD-1090-DJ,Residential,Giza,#7Mohandessin,saturday,High,Low,26183,2022-06-01,-3.68,3465.03 kWh
+BLD-1091-NF,Commercial,Cairo,)New Cairo64,THursday,Low,Medium,16434,2020-06-17,35.61,3501.94 kWh
+BLD-1092-OA,Industrial,Alexandria,Gleem-47,wednESDAY,High,Medium,4763,2022-08-18,-2.56,4209.18 kWh
+BLD-1093-XX,,Cairo,=39Heliopolis,sunDAY,Medium,Low,29625,2022-11-06,29.88,3518.13 kWh
+BLD-1094-IQ,Commercial,Cairo,New Cairo*25,SATURDAY,Low,High,44361,2022-07-06,39.91,5185.62 kWh
+BLD-1095-YF,Commercial,Giza,*Mohandessin13,SaTurday,High,Low,560m2,2020-05-30,20.0,2599.86 kWh
+BLD-1096-QD,Residential,Giza,Dokki+37,SUNDAY,Low,Medium,8745m2,2021-02-26,,2728.63 kWh
+BLD-1097-UJ,Commercial,Giza,*48Dokki,Wednesday,Low,High,4590m2,2020-01-01,29.08,2961.76 kWh
+BLD-1098-UQ,Industrial,Alexandria,-Smouha80,ThursDay,Low,Low,19842,2024-01-27,33.47,3855.63 kWh
+BLD-1099-TG,Commercial,,)Smouha63,saturday,High,High,40166m2,2024-12-31,41.59,5343.05 kWh
+BLD-1100-EL,Commercial,Cairo,(Maadi97,sunDAY,High,Medium,16905,2024-10-18,28.95,4158.47 kWh
+BLD-1101-YF,Commercial,Cairo,_53New Cairo,Tuesday,Medium,High,10647m2,2021-03-06,31.18,3796.71 kWh
+BLD-1102-RY,Commercial,Cairo,$Heliopolis33,SATURDAY,Low,Low,4970m2,2021-05-23,24.43,2648.85 kWh
+BLD-1103-QA,Residential,Giza,Dokki_13,friDAY,High,Low,2692m2,2021-01-22,22.41,2656.26 kWh
+BLD-1104-TK,Industrial,Giza,Dokki)30,ThursDay,Low,Low,981m2,2020-01-01,25.72,2724.82 kWh
+BLD-1105-PA,Industrial,Giza,Mohandessin)45,TUESDAY,Medium,High,6683m2,2024-07-21,36.25,4015.3 kWh
+BLD-1106-DL,Commercial,Cairo,_Maadi53,WeDnesday,High,Medium,6776m2,2020-04-16,41.11,3722.8 kWh
+BLD-1107-ZJ,Residential,Cairo,$78Heliopolis,SuNday,High,Medium,32153,2020-07-09,36.19,4172.08 kWh
+BLD-1108-HB,Commercial,Alexandria,)67Smouha,saturday,High,Medium,19287m2,2023-12-28,37.02,4246.55 kWh
+BLD-1109-HS,Residential,Giza,%73Mohandessin,tuesDAY,Medium,Low,1399m2,2021-12-19,,2109.01 kWh
+BLD-1110-CC,Residential,Alexandria,Gleem_11,Saturday,Medium,High,18949m2,2021-12-09,24.54,3811.73 kWh
+BLD-1111-XP,Residential,Alexandria,Smouha%43,wednesday,Low,Low,22254m2,2023-01-14,27.9,2980.23 kWh
+BLD-1112-CY,Residential,,!71Smouha,thursDAY,Medium,Low,33421,2023-11-26,31.61,3516.18 kWh
+BLD-1113-RY,Residential,Cairo,)62New Cairo,MonDay,High,Low,25262m2,2022-02-10,41.36,3344.42 kWh
+BLD-1114-EE,Residential,Alexandria,Gleem,sunDAY,High,Medium,40325m2,2022-01-21,39.05,4901.86 kWh
+BLD-1115-VP,Commercial,,Maadi,sunDAY,Low,Medium,36897,2024-10-06,39.92,4683.04 kWh
+BLD-1116-RF,Industrial,Cairo,#New Cairo12,tuesDAY,High,Medium,46417m2,2022-07-17,46.4,5973.63 kWh
+BLD-1117-IQ,Industrial,Cairo,#27Heliopolis,saturday,Medium,Medium,22515m2,2022-11-13,33.77,4757.71 kWh
+BLD-1118-TN,Commercial,Giza,Dokki@22,TuesDay,Low,High,17459m2,2022-02-07,36.72,3554.19 kWh
+BLD-1119-GR,Residential,Giza,_55Dokki,FriDay,High,High,39714,2021-05-05,,5094.1 kWh
+BLD-1120-YX,Industrial,Giza,=Dokki45,wednesday,High,Medium,43501m2,2024-05-28,,6041.7 kWh
+BLD-1121-WG,Residential,Alexandria,#Gleem63,FRIday,High,High,7787m2,2021-07-16,25.74,3272.91 kWh
+BLD-1122-WJ,Commercial,Cairo,@Maadi96,FriDay,Low,High,16958m2,2022-01-23,39.07,3744.59 kWh
+BLD-1123-MV,Industrial,Cairo,_47Heliopolis,Wednesday,High,Medium,40211m2,2024-12-31,37.87,5589.71 kWh
+BLD-1124-UL,Industrial,,Mohandessin+88,Saturday,Low,High,6484,2024-06-11,34.62,3619.74 kWh
+BLD-1125-OQ,Residential,Giza,Dokki,SaTurday,High,Low,41496m2,2024-07-17,45.89,4273.37 kWh
+BLD-1126-OD,Commercial,,Dokki,tuesday,Medium,Low,20672,2023-04-14,27.72,3651.6 kWh
+BLD-1127-HH,Residential,Cairo,Maadi,Wednesday,Low,Low,9101m2,2020-09-14,20.46,2170.7 kWh
+BLD-1128-CK,Commercial,Alexandria,Smouha@64,friday,Medium,Low,17827,2022-07-17,30.12,3246.71 kWh
+BLD-1129-AS,Commercial,,Smouha@32,Saturday,Medium,Low,12061,2020-01-01,,3010.22 kWh
+BLD-1130-RH,Commercial,Cairo,Maadi&92,SUNDAY,Low,High,11862m2,2023-04-13,,3195.8 kWh
+BLD-1131-SH,Commercial,,Heliopolis%44,SuNday,Medium,High,24863,2023-02-22,37.21,4414.12 kWh
+BLD-1132-AC,Commercial,Cairo,Heliopolis%7,FRIday,Medium,High,9019m2,2022-07-09,28.96,3903.29 kWh
+BLD-1133-WU,Commercial,Giza,Mohandessin#6,SaTurday,Low,High,6224,2020-01-01,30.88,3097.45 kWh
+BLD-1134-BH,Commercial,Giza,Dokki)66,saturday,Low,High,44013m2,2024-11-16,38.11,5278.51 kWh
+BLD-1135-CB,Residential,,Dokki#79,thursDAY,High,Low,30515,2024-02-14,40.7,3901.38 kWh
+BLD-1136-KC,Residential,Cairo,+New Cairo15,FRIday,Low,Low,49646,2022-06-13,32.66,4298.92 kWh
+BLD-1137-QH,Residential,Alexandria,Gleem*99,Friday,High,Medium,48903m2,2023-12-06,39.17,5015.61 kWh
+BLD-1138-IV,Commercial,,^Dokki6,SATURDAY,High,High,9517m2,2020-05-25,38.92,4149.86 kWh
+BLD-1139-PG,Commercial,Alexandria,Gleem%46,sunday,Low,High,29878m2,2024-08-21,30.75,4315.75 kWh
+BLD-1140-RE,Residential,Cairo,Heliopolis^30,Sunday,High,Low,18771,2023-04-19,29.83,3106.77 kWh
+BLD-1141-XS,Residential,Cairo,+14New Cairo,saturDAY,Low,Low,34072,2022-07-06,36.72,3435.18 kWh
+BLD-1142-SP,,Cairo,New Cairo,Saturday,Low,Medium,9095m2,2021-01-26,24.24,3536.81 kWh
+BLD-1143-HZ,Industrial,Giza,%Dokki49,FRIday,High,Low,26792,2024-12-31,,4874.53 kWh
+BLD-1144-PZ,Commercial,Alexandria,$Gleem67,FRIDAY,High,Low,45580,2024-07-21,,4922.36 kWh
+BLD-1145-NG,Residential,Cairo,Heliopolis!11,SuNday,Medium,Medium,14525,2020-01-01,,3148.79 kWh
+BLD-1146-DD,,,@Heliopolis16,SaturDay,Medium,High,26529m2,2022-11-09,35.85,5143.54 kWh
+BLD-1147-VN,Residential,Alexandria,!Smouha85,SuNday,Medium,Medium,19563m2,2020-01-01,25.64,3555.64 kWh
+BLD-1148-LN,Industrial,,$Heliopolis89,TuesDay,Low,Medium,13525m2,2022-03-03,35.29,3775.01 kWh
+BLD-1149-NO,,Giza,Dokki@41,SaTurday,Low,Low,18086m2,2020-01-01,,2685.54 kWh
+BLD-1150-XB,Industrial,Cairo,=32New Cairo,WEDNESDAY,Low,High,31407m2,2023-05-20,,4805.22 kWh
+BLD-1151-VU,Industrial,Giza,)Dokki10,SUNDAY,High,High,36454,2024-12-31,,5789.16 kWh
+BLD-1152-UD,Commercial,,Smouha,friday,Low,High,35207m2,2021-10-16,35.54,4688.65 kWh
+BLD-1153-BM,,Giza,_Mohandessin85,THursday,Medium,Medium,20395,2021-12-19,35.08,3951.62 kWh
+BLD-1154-XK,Residential,,(Gleem53,WednesDay,High,Low,48382,2021-08-12,40.48,4779.18 kWh
+BLD-1155-ZD,,Alexandria,)Gleem47,tuesday,High,Low,12200m2,2023-12-21,28.78,3621.32 kWh
+BLD-1156-HG,Industrial,Giza,Dokki,Sunday,Low,Low,41131,2021-11-04,48.24,4890.31 kWh
+BLD-1157-GR,,Cairo,%49New Cairo,WEDNESDAY,High,Low,21177m2,2021-08-06,,4276.15 kWh
+BLD-1158-OE,Residential,Alexandria,Smouha,saturday,Low,High,11182m2,2020-06-21,22.96,3028.56 kWh
+BLD-1159-NF,Residential,Cairo,Heliopolis,SATURDAY,High,Medium,3208m2,2021-08-11,30.17,2850.05 kWh
+BLD-1160-IO,Residential,,_0Smouha,sunday,High,High,2853,2021-02-26,24.22,3074.25 kWh
+BLD-1161-HC,Industrial,Giza,)Dokki53,Sunday,High,Medium,9496,2020-09-07,38.53,4104.73 kWh
+BLD-1162-OZ,Commercial,,@64Heliopolis,Saturday,Medium,Low,14653m2,2020-01-01,34.69,3214.88 kWh
+BLD-1163-RD,Industrial,Giza,-69Dokki,saturDAY,Medium,Low,40829,2023-08-02,36.71,4979.96 kWh
+BLD-1164-BU,Industrial,Alexandria,Smouha,TuesDay,High,Medium,34508,2023-08-06,49.09,5682.63 kWh
+BLD-1165-RA,Commercial,Giza,Dokki,tuesDAY,Low,High,32396m2,2024-10-06,40.01,4616.98 kWh
+BLD-1166-CY,Industrial,Giza,Dokki=16,WednesDay,High,Medium,40185m2,2024-12-31,,5576.14 kWh
+BLD-1167-HF,Industrial,Alexandria,Gleem,Saturday,High,High,37765,2024-07-30,50.0,5879.25 kWh
+BLD-1168-NP,Commercial,Alexandria,*Gleem22,monday,High,Low,24321m2,2024-05-14,34.54,4212.08 kWh
+BLD-1169-PG,Industrial,Cairo,(32New Cairo,SaTurday,Low,Medium,30366,2021-08-09,-4.66,4643.49 kWh
+BLD-1170-MB,Residential,Alexandria,#Smouha63,SATURDAY,Low,Low,7991,2022-08-12,20.0,2284.33 kWh
+BLD-1171-FM,Residential,Alexandria,Smouha(29,Friday,Low,Low,29041m2,2020-02-14,25.67,3193.51 kWh
+BLD-1172-AM,Industrial,Giza,$Mohandessin56,Monday,High,Low,21170m2,2021-10-05,37.22,4522.1 kWh
+BLD-1173-IZ,Industrial,Giza,_Mohandessin55,saturday,Low,Low,32098,2021-07-16,37.54,4269.02 kWh
+BLD-1174-ZO,Commercial,,@Dokki15,WeDnesday,High,High,23911m2,2021-08-29,41.64,4978.71 kWh
+BLD-1175-JN,Residential,Giza,_Dokki21,Wednesday,Medium,High,17529,2020-03-04,,3639.76 kWh
+BLD-1176-WX,Industrial,Giza,)56Mohandessin,Wednesday,Medium,Medium,8507m2,2021-01-19,33.15,3798.54 kWh
+BLD-1177-ZR,Commercial,,#Dokki65,friday,High,Medium,36159m2,2024-12-31,47.54,5076.4 kWh
+BLD-1178-VW,Commercial,,$45Gleem,Thursday,High,High,9002m2,2022-09-10,34.46,4211.82 kWh
+BLD-1179-PE,Residential,Alexandria,=Smouha47,MoNday,Low,High,40415m2,2020-08-21,,4548.56 kWh
+BLD-1180-GJ,Commercial,Alexandria,!28Gleem,WednesDay,Low,Medium,13761,2020-04-16,-3.58,3171.27 kWh
+BLD-1181-GB,Residential,Cairo,New Cairo#28,SaTurday,High,Medium,14007m2,2022-11-21,28.63,3701.39 kWh
+BLD-1182-SX,Commercial,Cairo,New Cairo+33,TuesDay,Low,Low,1468m2,2020-01-01,20.0,2365.5 kWh
+BLD-1183-RB,Industrial,Cairo,Maadi,ThursDay,Low,High,13308m2,2022-08-21,36.86,4056.28 kWh
+BLD-1184-XK,Industrial,Alexandria,$Gleem72,Saturday,Low,High,46148,2024-12-31,43.97,5718.21 kWh
+BLD-1185-BB,Industrial,Alexandria,Smouha(76,TUESDAY,Medium,Medium,30469m2,2021-02-22,43.76,5002.91 kWh
+BLD-1186-SP,,Alexandria,+Smouha88,MoNday,Low,Medium,9442m2,2023-09-13,35.32,3815.61 kWh
+BLD-1187-QQ,Commercial,Cairo,Heliopolis,SaTurday,Low,Medium,28571,2022-02-17,33.79,3964.54 kWh
+BLD-1188-FB,Commercial,,Dokki=77,WednesDay,Low,Low,26672,2023-07-02,26.72,3384.78 kWh
+BLD-1189-QC,Commercial,Giza,=73Mohandessin,Saturday,High,Low,25291m2,2022-05-22,29.68,4348.86 kWh
+BLD-1190-FC,Industrial,Giza,-Dokki12,tuesDAY,Medium,High,22616,2021-10-02,37.53,4841.23 kWh
+BLD-1191-TC,Industrial,Cairo,%Heliopolis86,Monday,High,Medium,33726m2,2023-08-03,47.88,5565.67 kWh
+BLD-1192-VH,Residential,,#35Smouha,friday,Medium,Medium,2896m2,2022-04-19,27.16,2684.98 kWh
+BLD-1193-MD,Industrial,Alexandria,)41Smouha,SuNday,Medium,Medium,27876,2023-04-12,-1.46,4881.83 kWh
+BLD-1194-SH,Industrial,Giza,-Dokki79,ThursDay,Medium,Low,43374,2023-12-28,-4.84,5600.03 kWh
+BLD-1195-ST,Residential,,#Gleem83,monday,High,High,32487m2,2024-11-25,42.39,5020.9 kWh
+BLD-1196-BT,Commercial,Cairo,@94Heliopolis,TuesDay,Low,Medium,44085m2,2023-02-14,35.93,4900.84 kWh
+BLD-1197-CN,Commercial,Cairo,+New Cairo31,saturDAY,Low,Low,13721m2,2022-07-02,28.0,2864.63 kWh
+BLD-1198-VS,Industrial,Alexandria,@Gleem80,SATURDAY,High,Medium,36559m2,2024-07-23,44.15,5543.64 kWh
+BLD-1199-SQ,Industrial,Giza,Dokki+14,tuesDAY,Medium,Low,21453m2,2024-07-05,30.6,4227.17 kWh
+BLD-1200-KI,Residential,Alexandria,Gleem-99,Friday,Medium,Medium,49810m2,2021-06-25,-0.81,5227.37 kWh
+BLD-1201-GV,,,Smouha!20,Sunday,High,High,27245,2021-12-21,45.99,5474.72 kWh
+BLD-1202-WK,Industrial,Giza,-Mohandessin86,friday,High,High,7283m2,2022-09-09,42.78,4576.47 kWh
+BLD-1203-HI,Industrial,Giza,Dokki)97,sunday,Medium,Medium,47827,2021-10-19,49.21,5637.13 kWh
+BLD-1204-ME,Industrial,,New Cairo,Sunday,Medium,Medium,16922m2,2023-07-25,29.35,4195.75 kWh
+BLD-1205-VU,Residential,Cairo,!64Maadi,WeDnesday,Medium,Medium,29206,2020-10-03,29.62,3920.23 kWh
+BLD-1206-JO,Commercial,Cairo,_Maadi57,Monday,Low,Medium,6616m2,2022-01-07,-3.9,2721.67 kWh
+BLD-1207-KY,Residential,Alexandria,_Gleem94,Sunday,High,Medium,22010,2020-01-01,35.05,3741.64 kWh
+BLD-1208-CA,Commercial,Alexandria,Smouha,SaturDay,High,High,3593,2021-08-17,35.22,3768.3 kWh
+BLD-1209-OT,Industrial,Cairo,Heliopolis,saturDAY,High,Low,15874m2,2023-04-16,50.0,4318.82 kWh
+BLD-1210-SD,Residential,,(92Gleem,SuNday,Medium,Low,10416,2020-01-01,,2512.1 kWh
+BLD-1211-CR,Commercial,Cairo,+67Heliopolis,SunDay,High,High,9205m2,2022-02-16,,4288.58 kWh
+BLD-1212-GQ,Industrial,Giza,Dokki,SATURDAY,Low,Medium,29902m2,2022-01-21,43.22,4741.16 kWh
+BLD-1213-IE,Commercial,Giza,=Mohandessin71,WeDnesday,Medium,Low,7714m2,2022-11-10,31.2,3019.12 kWh
+BLD-1214-LC,,Alexandria,Gleem+43,SunDay,Medium,Medium,24854m2,2021-03-21,-1.71,4710.15 kWh
+BLD-1215-HL,Industrial,Giza,+68Dokki,Saturday,Medium,Medium,29269,2021-03-09,41.47,4600.3 kWh
+BLD-1216-JF,Industrial,Alexandria,Gleem@60,SunDay,High,Medium,45055m2,2024-01-19,42.78,5925.39 kWh
+BLD-1217-OR,,Cairo,=New Cairo22,tuesday,Low,Low,17843m2,2020-01-08,23.65,2445.25 kWh
+BLD-1218-WJ,Residential,Alexandria,Smouha(78,SuNday,High,High,15817m2,2022-11-07,31.87,3955.17 kWh
+BLD-1219-TZ,Residential,Alexandria,Gleem,Wednesday,Medium,High,34768m2,2024-12-25,38.99,4692.24 kWh
+BLD-1220-UQ,Residential,Cairo,New Cairo*1,sunDAY,High,High,8625m2,2022-06-01,41.27,3437.1 kWh
+BLD-1221-AV,Residential,Giza,@Mohandessin98,TuesDay,High,Low,5609m2,2020-05-22,20.0,2514.4 kWh
+BLD-1222-RJ,Commercial,Giza,Dokki_16,Sunday,High,Low,35942m2,2024-07-01,41.98,4736.66 kWh
+BLD-1223-VD,,,+90Maadi,FRIday,Low,High,45047m2,2024-12-31,37.91,5750.07 kWh
+BLD-1224-EI,Industrial,Giza,^Mohandessin68,sunday,Medium,Medium,20316m2,2020-03-28,-2.16,4331.04 kWh
+BLD-1225-DD,Commercial,Cairo,%46Maadi,sunday,Medium,High,34497m2,2021-12-21,43.41,4674.31 kWh
+BLD-1226-XR,Residential,,=Gleem74,SuNday,Low,Low,15858,2021-09-08,25.23,2482.94 kWh
+BLD-1227-EI,,,=Heliopolis26,monDAY,Low,High,4262,2020-08-11,20.0,2406.04 kWh
+BLD-1228-JT,Industrial,Giza,$Dokki96,SunDay,Medium,High,9146,2024-11-25,,4103.69 kWh
+BLD-1229-GW,Industrial,Giza,(Dokki74,Tuesday,Medium,Medium,16077,2024-05-03,38.82,4230.79 kWh
+BLD-1230-KG,Industrial,Cairo,@49Maadi,saturDAY,Medium,Low,24660,2023-05-27,31.26,4034.64 kWh
+BLD-1231-VU,Commercial,Cairo,$Maadi38,SuNday,Low,Low,48338m2,2024-05-24,39.6,4693.8 kWh
+BLD-1232-IQ,Commercial,Giza,)80Mohandessin,SaTurday,High,Medium,24577,2023-02-19,37.3,4446.22 kWh
+BLD-1233-PI,,Alexandria,*22Gleem,MONDAY,Medium,Low,11803m2,2020-01-01,21.14,2342.32 kWh
+BLD-1234-BC,,Cairo,&Heliopolis99,sunday,Low,Medium,16146m2,2021-04-22,40.88,3498.27 kWh
+BLD-1235-UN,Industrial,Giza,Dokki!3,SUNDAY,Medium,Low,11671m2,2021-09-20,35.33,3699.87 kWh
+BLD-1236-IB,Residential,Alexandria,Smouha,thursDAY,High,Low,17775,2020-01-01,20.6,3253.47 kWh
+BLD-1237-AK,Commercial,Giza,!40Mohandessin,FRIday,High,Medium,23411m2,2024-12-27,,4558.07 kWh
+BLD-1238-YE,Industrial,Cairo,$54Maadi,SaturDay,Medium,Medium,43380m2,2023-07-28,40.43,5465.54 kWh
+BLD-1239-UI,Residential,,Mohandessin^59,saturday,Medium,Medium,27088m2,2021-04-01,37.3,3859.59 kWh
+BLD-1240-FX,Commercial,Alexandria,Smouha,THURSDAY,High,High,34433,2022-09-15,37.98,5164.94 kWh
+BLD-1241-OR,,Cairo,-New Cairo95,friday,High,Low,12798m2,2022-01-14,30.81,3513.41 kWh
+BLD-1242-WN,Residential,Giza,&13Dokki,SUNDAY,Medium,High,15843,2021-11-28,,3279.51 kWh
+BLD-1243-RA,Commercial,Giza,Mohandessin)21,SaTurday,Medium,High,9946,2020-01-01,35.54,3565.7 kWh
+BLD-1244-DC,Residential,Giza,$Dokki56,Saturday,Medium,High,22542m2,2020-07-01,28.84,3984.2 kWh
+BLD-1245-WE,Residential,Alexandria,Gleem%32,Saturday,Low,Low,15096,2020-01-01,24.04,2580.42 kWh
+BLD-1246-RB,Commercial,Cairo,%3New Cairo,SunDay,High,High,40911,2023-02-09,43.31,5794.83 kWh
+BLD-1247-LS,Commercial,,%38Smouha,wednESDAY,High,Medium,44981,2024-12-31,39.88,5369.95 kWh
+BLD-1248-RE,Residential,Giza,_Dokki83,thursday,Medium,Medium,33897m2,2023-11-29,,4232.44 kWh
+BLD-1249-NE,Commercial,Alexandria,&Gleem68,thursDAY,Medium,High,35935,2024-04-28,,5018.25 kWh
+BLD-1250-BJ,Industrial,Alexandria,=Smouha42,SUNDAY,Medium,High,1314m2,2023-02-19,27.73,3850.11 kWh
+BLD-1251-LZ,Residential,Alexandria,Gleem-20,SuNday,Medium,Medium,8283m2,2022-02-28,-4.4,2755.75 kWh
+BLD-1252-BL,Residential,Giza,Dokki@23,FriDay,Low,Low,2613m2,2020-01-01,29.55,1683.95 kWh
+BLD-1253-GV,Commercial,Giza,Dokki+48,Sunday,High,High,10957,2021-01-01,,4277.54 kWh
+BLD-1254-HV,Industrial,Alexandria,)75Gleem,Sunday,Low,High,35301,2024-05-15,35.97,5367.9 kWh
+BLD-1255-DL,Residential,Alexandria,+1Smouha,FriDay,Low,Low,23765,2020-12-28,24.44,2752.62 kWh
+BLD-1256-YR,Industrial,Giza,_Dokki62,wednesday,Medium,Medium,32085,2021-04-15,46.69,5074.24 kWh
+BLD-1257-NT,,Alexandria,Smouha,wednESDAY,Low,Medium,4238,2020-03-15,26.55,3256.52 kWh
+BLD-1258-XE,Commercial,Alexandria,Gleem(10,SATURDAY,High,Low,49090,2022-12-16,44.94,5390.61 kWh
+BLD-1259-HF,Industrial,Giza,Dokki,MonDay,Medium,Medium,7237,2021-06-20,38.53,4114.45 kWh
+BLD-1260-ZZ,Industrial,Giza,&76Mohandessin,Saturday,Low,Low,16376,2022-05-15,,3390.53 kWh
+BLD-1261-FN,Industrial,Cairo,^Heliopolis1,SunDay,Medium,Medium,45920m2,2021-12-17,45.47,5842.72 kWh
+BLD-1262-AF,Residential,,(Dokki35,Saturday,Medium,Low,34242m2,2023-06-21,20.0,3750.37 kWh
+BLD-1263-XK,Residential,,Mohandessin*1,SaTurday,Low,Low,7065m2,2021-03-06,20.0,2020.15 kWh
+BLD-1264-ZN,,Cairo,_9Heliopolis,Sunday,Low,Low,47328,2023-11-02,32.48,3883.46 kWh
+BLD-1265-ZV,Residential,Giza,^45Dokki,MONDAY,Medium,Low,3880,2020-06-26,20.0,2130.26 kWh
+BLD-1266-XZ,Industrial,Alexandria,Smouha&38,thursday,High,Medium,3868m2,2023-12-22,40.47,3804.34 kWh
+BLD-1267-HI,Industrial,Cairo,^Maadi69,saturday,Low,Medium,626m2,2022-01-28,22.29,3093.71 kWh
+BLD-1268-FZ,Residential,Cairo,Maadi+1,THursday,High,High,23551,2024-07-15,33.99,4263.39 kWh
+BLD-1269-WD,Commercial,,_34Smouha,MONDAY,Low,High,605m2,2023-07-18,27.96,2875.48 kWh
+BLD-1270-MB,Industrial,Cairo,_43New Cairo,TuesDay,High,High,12164m2,2024-03-27,,4683 kWh
+BLD-1271-PH,Industrial,Alexandria,=Gleem9,friDAY,High,Medium,35698m2,2024-12-31,38.15,5660.75 kWh
+BLD-1272-GO,Residential,Giza,&Dokki70,SaturDay,Medium,High,43694m2,2023-08-25,45.45,4950.15 kWh
+BLD-1273-LJ,Commercial,,_Mohandessin22,wednESDAY,Low,Medium,21109,2023-06-07,33.43,3845.57 kWh
+BLD-1274-ZH,Industrial,Giza,Dokki!94,saturday,High,Low,35867,2022-01-22,37.61,5241.91 kWh
+BLD-1275-HA,Industrial,Alexandria,(9Gleem,Saturday,Low,High,10861,2021-04-09,,3809.69 kWh
+BLD-1276-VG,Industrial,Cairo,(64Heliopolis,Wednesday,Low,Medium,18271m2,2024-12-06,36.08,4136.67 kWh
+BLD-1277-MK,,Giza,Dokki#66,SuNday,High,Low,18174,2020-05-29,33.25,4261.05 kWh
+BLD-1278-IC,,,$Dokki84,MoNday,High,Medium,47557m2,2023-10-05,49.4,6383.5 kWh
+BLD-1279-YI,Residential,Giza,&52Mohandessin,SATURDAY,Low,High,26010,2020-01-01,29.11,3435.21 kWh
+BLD-1280-LU,Industrial,Alexandria,Smouha&13,saturDAY,Medium,Medium,5799m2,2020-05-06,31.42,3446.15 kWh
+BLD-1281-QM,Commercial,Giza,Mohandessin,Wednesday,Low,High,26111m2,2022-01-19,40.51,4516.31 kWh
+BLD-1282-VR,Residential,,&2New Cairo,TuEsday,High,Medium,22276,2021-06-11,39.97,3757.72 kWh
+BLD-1283-KA,Residential,Cairo,Maadi,WednesDay,Low,Medium,49374m2,2023-03-19,32.24,4561.71 kWh
+BLD-1284-DI,Industrial,Cairo,=New Cairo79,SUNDAY,Medium,Medium,37930m2,2021-03-16,50.0,5008 kWh
+BLD-1285-FS,Commercial,Cairo,Heliopolis,sunday,High,Medium,8573m2,2020-01-16,22.64,3529.25 kWh
+BLD-1286-IB,Industrial,Giza,Mohandessin,SATURDAY,Medium,Low,1507,2020-01-01,29.99,3407.54 kWh
+BLD-1287-DT,Industrial,,&40Dokki,monday,Medium,Low,23736m2,2024-03-16,39.21,4360.36 kWh
+BLD-1288-NL,Commercial,Alexandria,%58Smouha,SaturDay,Medium,High,11316m2,2022-03-21,35.34,3958.7 kWh
+BLD-1289-XZ,Industrial,Cairo,Maadi@3,THURSDAY,Medium,High,24252,2024-02-27,-2.75,4908.05 kWh
+BLD-1290-KN,Commercial,Alexandria,Gleem,monDAY,Medium,High,7424,2022-12-14,30.53,3537.04 kWh
+BLD-1291-TQ,Industrial,Giza,Dokki,WednesDay,High,High,19074m2,2024-12-31,38.42,5017.45 kWh
+BLD-1292-DM,Industrial,Cairo,New Cairo,tuesday,Medium,Low,11116,2021-11-01,31.27,3932.56 kWh
+BLD-1293-SG,Industrial,,Smouha=2,FRIday,Medium,High,41306,2022-09-06,49.29,5798.61 kWh
+BLD-1294-IB,Industrial,Giza,_99Mohandessin,Sunday,Low,High,2242,2020-01-01,32.15,3386.72 kWh
+BLD-1295-WN,Commercial,,%8Dokki,SuNday,High,Medium,34520m2,2023-09-22,-3.87,5080.4 kWh
+BLD-1296-AQ,Residential,Giza,Dokki,Thursday,Low,Medium,2943m2,2022-09-01,27.97,2318.15 kWh
+BLD-1297-ZR,Residential,Cairo,New Cairo,monDAY,Low,High,45123m2,2023-12-20,40.24,4730.23 kWh
+BLD-1298-VX,Industrial,Alexandria,Smouha$67,wednesday,Low,High,34657m2,2023-12-14,-2.01,5332.1 kWh
+BLD-1299-XX,Residential,Giza,Dokki,friDAY,High,High,42255m2,2022-04-17,44.89,5247.04 kWh
+BLD-1300-VG,Commercial,Giza,!79Dokki,thursDAY,Medium,High,12701,2024-05-28,31.58,4157.81 kWh
+BLD-1301-LN,Industrial,Cairo,!Maadi56,Thursday,Medium,Medium,46507m2,2023-08-01,42.79,5772.35 kWh
+BLD-1302-CV,Industrial,Alexandria,Gleem(17,Saturday,High,Medium,6650m2,2022-01-08,39.35,4265.97 kWh
+BLD-1303-KT,Commercial,Alexandria,@Gleem39,THURSDAY,Low,Medium,29421m2,2020-04-12,36.63,3927.4 kWh
+BLD-1304-KV,Residential,Giza,%93Dokki,SuNday,Medium,Low,47563m2,2022-09-22,36.45,4357.27 kWh
+BLD-1305-DX,,Giza,Dokki,SaTurday,High,High,33782,2024-12-01,41.37,5051.07 kWh
+BLD-1306-JQ,Residential,,New Cairo,TuEsday,Medium,High,42474,2024-12-31,46.9,5101.13 kWh
+BLD-1307-JV,Industrial,Alexandria,*72Smouha,SuNday,Low,High,27416,2021-01-21,36.53,4785.27 kWh
+BLD-1308-NK,Industrial,Cairo,Maadi*62,SUNDAY,Medium,Medium,22091m2,2022-02-04,,4588.3 kWh
+BLD-1309-MW,Industrial,Alexandria,!Smouha71,Wednesday,Low,Low,27920,2022-03-01,34.3,4141.78 kWh
+BLD-1310-JR,Commercial,Giza,%Mohandessin52,MonDay,High,Medium,2969,2021-09-12,31.07,3631.08 kWh
+BLD-1311-EG,Commercial,Cairo,(New Cairo16,THURSDAY,Low,Medium,43506m2,2022-06-04,45.28,4969.79 kWh
+BLD-1312-NV,Industrial,Cairo,-New Cairo43,sunday,Low,Medium,23361m2,2024-04-17,39.92,4302.81 kWh
+BLD-1313-MV,Commercial,,=Smouha85,SATURDAY,Low,High,28452m2,2020-06-08,,4252.4 kWh
+BLD-1314-XF,Industrial,Giza,Mohandessin^13,SATURDAY,Medium,Low,47914,2024-12-31,,5437.17 kWh
+BLD-1315-TS,Residential,,_Heliopolis5,WEDNESDAY,Medium,Low,1226m2,2021-08-04,22.9,2137.35 kWh
+BLD-1316-JM,Industrial,Alexandria,@20Smouha,SunDay,Low,Low,9166m2,2022-03-09,31.89,3109.29 kWh
+BLD-1317-RA,,,)Heliopolis27,wednesday,Medium,High,9283,2021-07-28,30.86,3663.21 kWh
+BLD-1318-JJ,Industrial,Cairo,^35Heliopolis,Monday,Medium,Low,7140,2020-07-11,33.98,3707.17 kWh
+BLD-1319-GN,Commercial,Giza,Mohandessin&57,sunDAY,High,High,36721m2,2023-12-16,42.03,5338.17 kWh
+BLD-1320-ZS,Commercial,,Dokki&0,sunDAY,Low,Low,22092m2,2020-01-01,29.22,3103.65 kWh
+BLD-1321-TU,Commercial,Alexandria,!Gleem14,Saturday,High,Low,22026,2023-03-22,36.6,3933.39 kWh
+BLD-1322-KO,Commercial,Alexandria,-22Smouha,WednesDay,Medium,Medium,17161m2,2020-06-29,29.54,3820.1 kWh
+BLD-1323-OO,Industrial,Cairo,$Heliopolis76,saturDAY,Low,Medium,16741m2,2020-08-19,43.43,3947.61 kWh
+BLD-1324-VG,,,Gleem$84,SUNDAY,Medium,Medium,24150,2020-06-26,29.47,3945.47 kWh
+BLD-1325-QP,Industrial,Cairo,New Cairo,MonDay,Low,High,35388m2,2023-01-10,37.25,5353.94 kWh
+BLD-1326-ZZ,Commercial,Alexandria,)43Gleem,saturday,Low,Medium,6599,2020-01-01,33.96,3097.98 kWh
+BLD-1327-XF,Commercial,,New Cairo$14,sunday,Low,Medium,36322,2022-12-16,39.5,4258.49 kWh
+BLD-1328-VC,Industrial,Giza,-19Dokki,Wednesday,Low,High,7319m2,2023-02-07,35.34,3708.08 kWh
+BLD-1329-JQ,,Cairo,Maadi_95,ThursDay,High,Low,38501,2021-08-07,,5214.85 kWh
+BLD-1330-VU,Residential,Giza,&Dokki21,THursday,Medium,Medium,41589,2021-12-26,38.26,4643.44 kWh
+BLD-1331-TK,Commercial,,Dokki*78,THursday,Medium,High,45850,2023-09-10,40.14,5590.7 kWh
+BLD-1332-CY,Residential,Cairo,Maadi,SunDay,Medium,Medium,23390m2,2023-07-19,31.65,3510.52 kWh
+BLD-1333-HV,Commercial,Cairo,Heliopolis%43,tuesDAY,Medium,High,18273m2,2021-12-12,,3928.35 kWh
+BLD-1334-JH,Residential,Alexandria,Gleem,SunDay,High,Medium,26885m2,2023-09-25,-1.35,4161.08 kWh
+BLD-1335-ZG,Industrial,Alexandria,^Smouha0,MoNday,Medium,Low,33839m2,2021-03-28,,4963.62 kWh
+BLD-1336-EA,Industrial,Alexandria,=60Smouha,sunDAY,Low,High,42373m2,2024-06-17,39.43,5422.98 kWh
+BLD-1337-BH,Industrial,,+2Heliopolis,saturday,Low,High,47682,2023-06-21,43.36,5691.84 kWh
+BLD-1338-PT,Industrial,Giza,Dokki%10,MONDAY,Medium,High,48820m2,2024-03-24,48.87,6047.23 kWh
+BLD-1339-YC,Industrial,,)72Dokki,Thursday,Medium,Medium,32732,2023-01-01,38.04,5007.9 kWh
+BLD-1340-ON,Residential,,&71Mohandessin,SaTurday,Medium,Low,49969,2023-10-05,33.53,4468.13 kWh
+BLD-1341-US,,,%51New Cairo,monday,High,Low,37009m2,2024-12-31,38.21,4448.42 kWh
+BLD-1342-GW,Residential,,New Cairo&9,SaturDay,Low,Low,33056m2,2022-10-14,30.72,3238.18 kWh
+BLD-1343-WM,Commercial,Alexandria,+89Gleem,SaturDay,High,Low,3483m2,2021-01-28,25.94,3012.32 kWh
+BLD-1344-PM,Commercial,Cairo,_32Heliopolis,TuEsday,High,Medium,13357m2,2024-08-26,,4114.7 kWh
+BLD-1345-HE,Commercial,Giza,Dokki*37,saturDAY,Medium,High,25326,2020-08-14,37.3,4310.2 kWh
+BLD-1346-UW,Commercial,,&Mohandessin77,Saturday,Low,Low,47178m2,2021-03-25,32.95,4828.19 kWh
+BLD-1347-AY,Commercial,Giza,Dokki-54,SATURDAY,High,High,31695m2,2023-03-17,35.01,5132.23 kWh
+BLD-1348-YD,Industrial,Cairo,_New Cairo91,saturDAY,Medium,High,32321m2,2022-08-16,39.97,5432.11 kWh
+BLD-1349-YN,Commercial,Cairo,@New Cairo65,monDAY,High,High,4994m2,2022-02-21,31.53,3701.73 kWh
+BLD-1350-HF,Industrial,Giza,*Mohandessin89,saturDAY,Medium,Low,32390m2,2023-07-02,38.85,4504.03 kWh
+BLD-1351-ZW,Industrial,Alexandria,%Smouha42,FRIDAY,High,Low,31178m2,2024-03-17,45.85,4787.64 kWh
+BLD-1352-QO,Residential,,+Maadi7,TUESDAY,Low,High,39563m2,2022-06-22,,4304.63 kWh
+BLD-1353-BR,Commercial,Giza,^Dokki97,SaturDay,High,High,11041m2,2023-01-01,33.29,3947.63 kWh
+BLD-1354-HD,Residential,,=59Dokki,tuesDAY,Low,Medium,22859,2020-01-01,29.35,3208.61 kWh
+BLD-1355-OE,Residential,Alexandria,+79Smouha,friday,Medium,High,41309m2,2023-08-08,35.94,4988.44 kWh
+BLD-1356-ZO,Residential,,Maadi,monday,Low,Low,18655m2,2022-05-18,26.31,2716.66 kWh
+BLD-1357-VQ,Residential,Cairo,Maadi,MonDay,High,High,9212m2,2023-09-27,29.28,3392.31 kWh
+BLD-1358-RT,Residential,Cairo,Heliopolis,SATURDAY,Low,Medium,21195m2,2020-01-01,30.09,3078.96 kWh
+BLD-1359-KY,Industrial,Alexandria,&9Gleem,Wednesday,Low,Medium,35332,2022-02-06,36.79,4997.78 kWh
+BLD-1360-OT,Residential,Giza,Mohandessin,SUNDAY,Low,Low,38641m2,2020-02-03,33.48,3484.46 kWh
+BLD-1361-XQ,Commercial,Giza,Mohandessin+86,SUNDAY,Medium,Low,25074m2,2021-10-03,40.56,3891.86 kWh
+BLD-1362-NR,Commercial,Alexandria,!Gleem89,Sunday,Low,Low,9077m2,2020-01-01,26.8,2862.17 kWh
+BLD-1363-OF,Residential,Cairo,+58New Cairo,SaTurday,High,High,12222m2,2021-10-12,33.11,3510.28 kWh
+BLD-1364-XP,Industrial,Giza,Mohandessin,SATURDAY,Medium,Low,15849m2,2022-12-03,36.62,3867.85 kWh
+BLD-1365-OI,,Alexandria,Gleem#17,Tuesday,Low,High,19629,2021-05-21,,3459.59 kWh
+BLD-1366-YH,Industrial,Giza,%Mohandessin22,MonDay,Medium,Medium,48424m2,2024-12-31,47.49,5961.49 kWh
+BLD-1367-UI,Industrial,Giza,(Mohandessin96,Monday,Medium,Medium,12682m2,2021-03-05,36.07,4271.39 kWh
+BLD-1368-YY,Residential,Cairo,=19Heliopolis,monday,High,Low,26431m2,2020-02-21,34.36,3932.59 kWh
+BLD-1369-QP,Industrial,,Dokki(45,Wednesday,Medium,Low,6126m2,2020-01-01,27.85,3514.09 kWh
+BLD-1370-UH,Commercial,Alexandria,^Smouha86,FRIDAY,Medium,Low,27411m2,2022-01-18,34.59,4023.41 kWh
+BLD-1371-IO,,Cairo,New Cairo!29,TuEsday,High,Medium,20475,2023-12-16,38.77,4354.25 kWh
+BLD-1372-CW,,Alexandria,Gleem,sunDAY,High,Medium,37708,2023-12-05,50.0,5607.7 kWh
+BLD-1373-JH,Residential,Giza,Dokki,Wednesday,Low,High,46786m2,2022-08-08,,4891.8 kWh
+BLD-1374-IK,Industrial,Cairo,Maadi,MONDAY,High,High,29787m2,2024-12-31,50.0,5416.01 kWh
+BLD-1375-KR,Residential,Alexandria,Gleem%72,THursday,Medium,High,42286m2,2023-04-08,35.89,4808.64 kWh
+BLD-1376-CE,Commercial,Alexandria,Gleem^34,Sunday,Low,Medium,38404,2022-11-06,42.03,4608.27 kWh
+BLD-1377-EH,Residential,Alexandria,_Smouha80,MonDay,High,Low,36272,2021-02-13,36.73,4253.4 kWh
+BLD-1378-MW,Commercial,Alexandria,Gleem,tuesDAY,Medium,High,36296,2021-05-13,49.48,4854.25 kWh
+BLD-1379-EW,,Alexandria,%Smouha94,saturday,High,Low,27458m2,2023-02-16,32.97,4367.45 kWh
+BLD-1380-GC,Residential,Giza,Mohandessin=8,sunDAY,Medium,Medium,13484,2022-10-06,23.9,2924.6 kWh
+BLD-1381-NN,Industrial,Cairo,New Cairo,SuNday,Medium,Medium,14129m2,2020-10-12,32.84,4193.77 kWh
+BLD-1382-KR,Commercial,Alexandria,Smouha-58,SUNDAY,High,Medium,11206m2,2023-10-12,22.85,3689.04 kWh
+BLD-1383-ON,Commercial,,^New Cairo30,saturDAY,Low,High,47266m2,2024-01-08,39.48,5212.64 kWh
+BLD-1384-BG,Commercial,Cairo,&Heliopolis16,saturDAY,Low,High,18278m2,2020-05-02,29.07,3701.68 kWh
+BLD-1385-NM,Commercial,Cairo,New Cairo&45,THURSDAY,Medium,Medium,45641,2022-04-19,,5082.68 kWh
+BLD-1386-YS,Industrial,,Heliopolis,WEDNESDAY,Low,Medium,5471m2,2020-11-03,-0.8,3601.86 kWh
+BLD-1387-WA,Industrial,Alexandria,&31Smouha,SuNday,Medium,High,24942,2024-06-03,47.44,4753.3 kWh
+BLD-1388-YS,Residential,Alexandria,$Smouha48,thursDAY,High,Low,8064m2,2021-10-20,32.36,2989.05 kWh
+BLD-1389-MP,Residential,,_Mohandessin86,THursday,Medium,Medium,37480m2,2020-09-27,32.81,4172.54 kWh
+BLD-1390-AL,,Alexandria,Gleem,saturDAY,High,Medium,18797,2020-09-18,32.01,4278 kWh
+BLD-1391-JY,Commercial,,@Smouha18,Sunday,Medium,Low,24589m2,2022-07-08,34.59,3683.59 kWh
+BLD-1392-MN,,,*87Dokki,wednESDAY,Medium,Low,15782m2,2020-08-20,25.35,3508.32 kWh
+BLD-1393-RX,Residential,,Mohandessin,saturday,Medium,Low,46243,2021-08-24,45.0,4390.91 kWh
+BLD-1394-XR,Residential,Giza,Dokki$65,tuesday,Low,Medium,27806,2022-09-19,36.63,3513.31 kWh
+BLD-1395-ZT,Residential,Alexandria,Smouha,saturday,High,High,22973m2,2023-07-24,33.55,4213.66 kWh
+BLD-1396-HP,Industrial,Alexandria,#Gleem25,wednesday,Medium,High,7811,2024-11-10,27.77,4184.21 kWh
+BLD-1397-HI,Commercial,Cairo,Heliopolis*69,monDAY,Low,Low,9630m2,2021-10-06,33.4,2864.42 kWh
+BLD-1398-NP,Residential,,Smouha(25,sunDAY,Low,Medium,45465,2022-10-16,35.38,4251.16 kWh
+BLD-1399-AM,Residential,Alexandria,Smouha_55,Friday,High,Low,21107,2022-06-06,35.21,3241.57 kWh
+BLD-1400-KV,Commercial,Cairo,(10Maadi,monDAY,Low,Medium,36987m2,2023-12-16,30.64,4562.64 kWh
+BLD-1401-VZ,Industrial,Cairo,Heliopolis#29,SATURDAY,Medium,Low,22919,2023-08-24,33.8,4349.61 kWh
+BLD-1402-MX,Residential,Alexandria,Smouha=66,friDAY,Low,Medium,35384m2,2024-06-23,34.58,4036.12 kWh
+BLD-1403-FO,Residential,Giza,&2Mohandessin,SaturDay,High,Medium,32389m2,2020-07-30,-1.82,4543.67 kWh
+BLD-1404-ET,Residential,Alexandria,+95Gleem,saturDAY,High,Low,43582m2,2021-12-09,35.93,4584.62 kWh
+BLD-1405-RA,Industrial,,@64Dokki,WeDnesday,High,High,2122m2,2024-04-23,36.5,3897.02 kWh
+BLD-1406-MS,Industrial,Alexandria,Smouha)44,sunday,Medium,Low,14169,2022-05-28,27.9,3736.5 kWh
+BLD-1407-SV,Residential,Cairo,Maadi@20,ThursDay,Low,High,22374,2021-12-15,30.21,3437.53 kWh
+BLD-1408-AC,Residential,Alexandria,Smouha,FRIday,High,Low,2490m2,2020-02-04,-2.6,2619.36 kWh
+BLD-1409-UN,Industrial,,Mohandessin^44,saturDAY,High,Low,47554,2024-12-31,46.73,5628.95 kWh
+BLD-1410-EO,Commercial,Alexandria,Gleem,Sunday,High,Medium,24374m2,2023-10-30,,4560.05 kWh
+BLD-1411-FB,Commercial,Cairo,(79Maadi,SaTurday,Medium,High,11331m2,2024-01-02,-2.94,3791.04 kWh
+BLD-1412-IM,Industrial,Giza,Dokki,Thursday,High,High,2060,2020-10-15,28.05,4099.62 kWh
+BLD-1413-KG,Commercial,Alexandria,Gleem=75,ThursDay,Medium,Low,47537,2021-08-24,46.42,5023.85 kWh
+BLD-1414-OK,Residential,Cairo,New Cairo@44,WEDNESDAY,High,Medium,29577m2,2023-04-07,37.96,4343.66 kWh
+BLD-1415-KY,Commercial,Alexandria,(Smouha38,FRIday,Low,Low,39999,2021-03-21,34.19,4520.19 kWh
+BLD-1416-MI,Commercial,Giza,Dokki,MoNday,High,High,22066m2,2023-10-18,46.3,4804.46 kWh
+BLD-1417-YN,Industrial,Giza,Mohandessin,Wednesday,High,Medium,22451m2,2024-12-31,41.67,5100.56 kWh
+BLD-1418-IC,Industrial,Alexandria,)40Smouha,MoNday,High,High,35136,2024-12-31,50.0,5866.63 kWh
+BLD-1419-PA,Residential,Cairo,New Cairo,tuesday,High,Medium,39065,2023-04-16,38.86,4682.41 kWh
+BLD-1420-XR,Commercial,Alexandria,Smouha(15,FRIday,Low,High,46393,2023-04-21,50.0,5341.65 kWh
+BLD-1421-BL,Commercial,Alexandria,(12Smouha,saturday,Medium,Medium,42449m2,2021-07-04,48.0,4930.94 kWh
+BLD-1422-HU,Industrial,Alexandria,Gleem,MONDAY,Medium,Medium,19046,2020-08-07,35.69,4399.73 kWh
+BLD-1423-CY,Commercial,Alexandria,Gleem,SunDay,High,High,34219m2,2021-07-04,,5473.98 kWh
+BLD-1424-UB,,Cairo,New Cairo@0,SaturDay,Low,Low,48780,2023-12-06,38.59,4218.29 kWh
+BLD-1425-YA,Residential,Cairo,^Heliopolis35,SaturDay,High,High,1026,2021-06-14,,3375.62 kWh
+BLD-1426-HG,Commercial,Alexandria,Gleem,SunDay,Low,Medium,21952m2,2022-02-18,29.18,3867.72 kWh
+BLD-1427-AT,Commercial,Alexandria,Smouha,SATURDAY,Medium,Low,25451m2,2023-08-18,36.86,3909.07 kWh
+BLD-1428-EH,Commercial,,Gleem#74,Sunday,Low,Medium,44379m2,2024-02-24,44.37,4852.28 kWh
+BLD-1429-EP,Industrial,,Heliopolis,saturDAY,Medium,Low,40863m2,2024-12-31,32.27,4945.09 kWh
+BLD-1430-VD,Residential,,%72Gleem,MONDAY,Medium,Low,21889m2,2023-05-25,-4.68,3350.09 kWh
+BLD-1431-SG,Commercial,Alexandria,(96Smouha,Saturday,Medium,Low,49648m2,2024-12-31,31.73,5061.5 kWh
+BLD-1432-OW,Commercial,,New Cairo,FRIday,Medium,Low,26643m2,2023-08-10,,3985.8 kWh
+BLD-1433-IY,Residential,Giza,$Mohandessin12,Thursday,Low,Medium,8473m2,2021-01-28,27.93,2443.16 kWh
+BLD-1434-LF,Industrial,Alexandria,-Gleem30,SuNday,High,Low,32588m2,2021-04-19,47.37,5013.75 kWh
+BLD-1435-TT,Industrial,,!Mohandessin6,Friday,High,Medium,27089m2,2021-12-22,40.54,4947.78 kWh
+BLD-1436-XW,Residential,Alexandria,Gleem,SaturDay,Medium,High,34036,2023-09-15,43.71,4330.61 kWh
+BLD-1437-DY,Industrial,Cairo,!51New Cairo,WEDNESDAY,High,Medium,17834,2021-04-21,30.38,4363.89 kWh
+BLD-1438-FJ,Residential,Cairo,Maadi*11,Sunday,Medium,High,35060,2021-11-01,29.2,4408.36 kWh
+BLD-1439-DS,Residential,Cairo,@49New Cairo,tuesDAY,Medium,Low,3842m2,2021-07-29,23.32,2260.82 kWh
+BLD-1440-AJ,Residential,,Gleem,sunDAY,High,Low,25078,2022-09-25,34.6,3762.71 kWh
+BLD-1441-SV,,Alexandria,^84Gleem,sunday,High,Low,2425,2022-03-25,26.81,2807.29 kWh
+BLD-1442-MM,,,(Smouha80,Saturday,Low,Medium,3930m2,2020-01-01,-0.99,2613.53 kWh
+BLD-1443-WG,Residential,,Smouha,WEDNESDAY,Medium,Medium,31086,2022-01-15,35.16,4197.59 kWh
+BLD-1444-CS,Residential,Alexandria,Gleem,WednesDay,Low,High,31610,2020-01-01,28.01,3926.61 kWh
+BLD-1445-WU,Residential,Cairo,Maadi,saturday,Medium,High,45141,2023-04-18,42.79,4879.42 kWh
+BLD-1446-HD,Industrial,Alexandria,)46Smouha,Sunday,High,High,16085m2,2022-11-19,42.39,5034.91 kWh
+BLD-1447-WY,Commercial,Cairo,Maadi&67,SunDay,Low,Low,43034,2022-09-02,-4.86,4550.69 kWh
+BLD-1448-JV,,Alexandria,_Smouha25,FRIDAY,Medium,Medium,49189,2024-02-15,37.22,4839.29 kWh
+BLD-1449-TZ,Commercial,Alexandria,Smouha_86,SATURDAY,Medium,Medium,13850m2,2021-03-24,26.83,3557.61 kWh
+BLD-1450-DZ,Industrial,Alexandria,!Gleem11,monday,High,High,13095m2,2021-06-19,38.0,4637.71 kWh
+BLD-1451-SZ,Commercial,Cairo,New Cairo-6,wednesday,Medium,Low,22020m2,2023-01-23,35.66,3519.59 kWh
+BLD-1452-BL,Residential,,#Mohandessin71,Tuesday,Medium,Medium,14237,2020-01-01,,3127.07 kWh
+BLD-1453-RN,Commercial,Giza,Mohandessin,SaturDay,Low,Low,7583m2,2020-12-05,27.72,2564.94 kWh
+BLD-1454-VL,Industrial,Cairo,New Cairo=84,saturDAY,Medium,Low,12503m2,2020-07-10,30.16,3710.69 kWh
+BLD-1455-CQ,Residential,Giza,^Dokki68,SunDay,High,Low,27924m2,2024-06-15,29.53,3799.24 kWh
+BLD-1456-UK,Commercial,Cairo,Maadi$75,MONDAY,Medium,Medium,13151m2,2021-11-03,30.97,3534.74 kWh
+BLD-1457-AN,Commercial,Alexandria,(Smouha55,TUESDAY,Low,Low,2250,2021-03-30,20.0,2241.96 kWh
+BLD-1458-PD,Industrial,,Mohandessin_48,Sunday,Low,Low,3217,2023-03-06,24.49,2811.68 kWh
+BLD-1459-NL,Commercial,Alexandria,Gleem)74,thursDAY,High,Medium,27227,2024-12-31,33.19,4686.28 kWh
+BLD-1460-UO,Residential,Alexandria,Gleem,SaTurday,Low,Medium,30356m2,2020-05-02,41.5,3728.69 kWh
+BLD-1461-WE,,Cairo,*Maadi88,Wednesday,Medium,Medium,21695m2,2023-10-05,35.67,4189.13 kWh
+BLD-1462-NF,Residential,,New Cairo,THURSDAY,Medium,Low,4256,2022-05-08,20.52,2276.7 kWh
+BLD-1463-XQ,Residential,Alexandria,Gleem#88,SUNDAY,Low,Medium,25057m2,2022-04-18,31.7,3417.99 kWh
+BLD-1464-UI,Commercial,Giza,Mohandessin_3,MoNday,Low,Low,625,2021-07-26,24.13,2433.47 kWh
+BLD-1465-TZ,Residential,Cairo,Maadi,sunDAY,Medium,Low,28356m2,2022-02-06,28.4,3201.55 kWh
+BLD-1466-RY,Residential,,Heliopolis,WednesDay,Medium,Low,14788m2,2021-01-17,29.27,2735.63 kWh
+BLD-1467-PO,,Giza,&Mohandessin8,MoNday,Low,High,45686,2024-12-31,45.55,5260.26 kWh
+BLD-1468-NX,Commercial,Cairo,New Cairo,Saturday,Low,Medium,42252m2,2023-12-18,,4905.91 kWh
+BLD-1469-SI,Industrial,,Gleem@33,SaturDay,High,Medium,42824m2,2024-12-31,44.65,6084.9 kWh
+BLD-1470-KH,Industrial,Giza,$98Dokki,sunday,Low,High,32075m2,2021-04-19,38.36,4849.54 kWh
+BLD-1471-CI,Commercial,,)31Dokki,monday,High,Low,47819m2,2024-04-22,31.58,5228.59 kWh
+BLD-1472-OH,Industrial,Giza,Mohandessin,FriDay,High,Low,14260m2,2020-07-26,,4026.33 kWh
+BLD-1473-YO,Industrial,Cairo,(25Heliopolis,MonDay,Medium,Low,36944m2,2023-03-17,47.78,5178.97 kWh
+BLD-1474-ST,Commercial,Cairo,-Maadi29,SunDay,Medium,Low,15729m2,2020-05-09,37.93,3384.58 kWh
+BLD-1475-VM,Residential,Giza,Mohandessin,TUESDAY,High,High,12754m2,2024-06-04,32.5,3885.13 kWh
+BLD-1476-KA,Residential,Giza,Mohandessin-67,WEDNESDAY,High,High,39610,2023-07-06,,5102.49 kWh
+BLD-1477-PK,,Alexandria,=Smouha11,sunDAY,Medium,High,39059m2,2023-01-21,43.9,5319.27 kWh
+BLD-1478-FP,Commercial,Giza,Dokki+1,Saturday,Low,High,21081m2,2024-08-18,47.99,3967.63 kWh
+BLD-1479-GL,Commercial,Cairo,+96Heliopolis,tuesday,High,High,17274m2,2024-07-12,43.86,4724.76 kWh
+BLD-1480-ZI,Commercial,Giza,%Dokki85,saturday,Low,Low,11289m2,2021-05-01,26.59,2841.31 kWh
+BLD-1481-KI,Residential,Giza,Dokki,Saturday,High,Medium,35557,2024-10-31,,4650.7 kWh
+BLD-1482-TW,Commercial,Giza,@Mohandessin30,SaturDay,Medium,Medium,35900m2,2022-05-10,30.25,4507.73 kWh
+BLD-1483-IR,Industrial,Giza,)83Dokki,wednESDAY,Low,Medium,2856m2,2022-03-29,29.42,3057.53 kWh
+BLD-1484-AQ,Residential,Giza,Mohandessin,SuNday,Medium,High,48023m2,2024-12-31,38.06,5152.04 kWh
+BLD-1485-GC,Commercial,Cairo,&Heliopolis47,SuNday,Medium,High,4732m2,2021-01-03,24.19,3395.45 kWh
+BLD-1486-HX,Residential,Alexandria,)21Gleem,SunDay,Low,Medium,34095,2023-09-24,29.97,3765.06 kWh
+BLD-1487-NP,Residential,Alexandria,Gleem@28,Friday,Low,Medium,10725m2,2020-02-12,21.21,2665.72 kWh
+BLD-1488-RY,Commercial,Giza,Mohandessin@53,friDAY,High,Medium,25057,2024-05-08,45.95,4649.81 kWh
+BLD-1489-HW,Residential,Cairo,^41Heliopolis,wednesday,Medium,Low,5290m2,2023-02-25,,2475.76 kWh
+BLD-1490-PU,Industrial,Cairo,New Cairo,tuesday,Low,Low,2480,2023-09-30,28.3,3030.38 kWh
+BLD-1491-WP,Industrial,Giza,#Dokki60,SaturDay,Low,High,19596m2,2024-05-15,,4310.82 kWh
+BLD-1492-OZ,,Alexandria,$3Smouha,THURSDAY,Medium,Low,2921,2020-01-01,26.91,2744.38 kWh
+BLD-1493-AC,Residential,Giza,Mohandessin+62,Monday,Medium,Low,29125,2023-04-13,28.18,3631.54 kWh
+BLD-1494-JH,Commercial,Giza,Dokki,SaTurday,Medium,High,20076m2,2020-08-16,41.21,4002.72 kWh
+BLD-1495-MW,Industrial,Cairo,New Cairo,Sunday,Medium,High,2836m2,2020-12-27,-0.14,3953.1 kWh
+BLD-1496-HJ,Residential,Alexandria,+26Smouha,MoNday,High,High,10484m2,2022-03-03,28.28,3776.21 kWh
+BLD-1497-VS,Commercial,Alexandria,Smouha#92,Friday,Low,Low,24570,2020-12-23,31.06,3609.75 kWh
+BLD-1498-LP,Residential,Alexandria,Gleem,thursday,High,Low,4633m2,2021-06-27,22.51,2726.13 kWh
+BLD-1499-RQ,Industrial,Giza,(43Mohandessin,MoNday,High,Low,47304,2024-08-06,40.83,6053.68 kWh
+BLD-1500-LN,Commercial,Alexandria,Gleem%33,saturday,High,Low,36562,2024-12-31,43.98,4884.18 kWh
+BLD-1501-XR,Industrial,,=6Smouha,saturDAY,Medium,Low,19350m2,2023-07-11,42.72,3965.87 kWh
+BLD-1502-KL,Residential,Giza,Mohandessin=5,wednESDAY,Medium,Medium,1739m2,2020-01-01,20.0,2614.4 kWh
+BLD-1503-WO,,Giza,!91Dokki,TUESDAY,High,Low,32390m2,2020-10-28,37.94,4172.29 kWh
+BLD-1504-IJ,Industrial,Cairo,$12Maadi,Monday,Low,Medium,45504,2023-08-31,41.19,5580.25 kWh
+BLD-1505-IH,,Alexandria,!0Smouha,thursDAY,Medium,High,48790m2,2023-09-14,39.48,5185.54 kWh
+BLD-1506-DX,,Giza,@Mohandessin65,Sunday,Low,Low,37834m2,2023-01-28,28.87,3547.29 kWh
+BLD-1507-GK,Residential,Alexandria,Gleem,tuesday,High,Medium,23650,2022-11-16,30.64,4030.72 kWh
+BLD-1508-DX,Residential,Cairo,Heliopolis@30,FriDay,High,Medium,46058m2,2021-04-30,42.82,5335.23 kWh
+BLD-1509-RY,Commercial,Giza,_Mohandessin24,sunDAY,Medium,Medium,9211m2,2023-01-23,,3299.75 kWh
+BLD-1510-WF,Industrial,,_33Maadi,MoNday,Low,Medium,21672,2021-12-24,37.06,4243.36 kWh
+BLD-1511-GG,Industrial,Cairo,-New Cairo89,wednESDAY,High,Low,39943m2,2023-10-16,41.71,5228.01 kWh
+BLD-1512-XP,Commercial,Giza,Mohandessin,Sunday,High,High,1456,2023-06-29,30.13,3494.52 kWh
+BLD-1513-IX,Commercial,Cairo,New Cairo,friDAY,Low,Low,20559,2022-07-14,26.01,3314.12 kWh
+BLD-1514-SY,Residential,Cairo,&New Cairo36,TuEsday,High,Medium,42960m2,2022-05-01,38.19,5041.34 kWh
+BLD-1515-QT,Residential,,Gleem_95,saturDAY,High,Low,42063m2,2023-04-10,40.61,4464.55 kWh
+BLD-1516-JD,Residential,Alexandria,Smouha,tuesday,High,High,49488,2024-03-04,47.4,5746.4 kWh
+BLD-1517-GJ,Commercial,Giza,Dokki+66,MONDAY,High,High,41657,2022-05-29,39.18,5492.51 kWh
+BLD-1518-HL,Residential,Alexandria,Gleem,saturday,Low,Low,2024m2,2020-11-14,,1787 kWh
+BLD-1519-FJ,Industrial,Alexandria,Smouha)81,ThursDay,Medium,Medium,10268,2023-05-21,35.54,3647.48 kWh
+BLD-1520-AW,Industrial,Cairo,@70Maadi,Saturday,Low,High,11224m2,2023-02-19,28.15,4214.3 kWh
+BLD-1521-RE,,Giza,&1Dokki,Saturday,Low,Medium,40192m2,2022-05-20,40.18,4549.59 kWh
+BLD-1522-IB,Industrial,Giza,$89Dokki,sunDAY,High,High,25791,2022-09-25,40.36,5454.74 kWh
+BLD-1523-BR,Residential,Giza,Dokki,Sunday,Low,High,22292,2020-12-09,34.44,3601.83 kWh
+BLD-1524-JW,Industrial,,#Gleem92,SATURDAY,Low,High,1114m2,2020-08-10,27.39,3432.74 kWh
+BLD-1525-EU,Industrial,Alexandria,(45Smouha,SATURDAY,Low,High,42707,2024-12-31,35.32,5471.43 kWh
+BLD-1526-YP,Commercial,Alexandria,+3Gleem,tuesDAY,High,Low,23540m2,2021-09-30,27.94,4149.49 kWh
+BLD-1527-DA,Commercial,Alexandria,Smouha(32,tuesDAY,Medium,Low,16938,2020-05-30,31.08,3439.34 kWh
+BLD-1528-SJ,Residential,,New Cairo,MoNday,High,High,17934m2,2020-01-23,34.82,3888.89 kWh
+BLD-1529-PP,Industrial,Cairo,Maadi*28,thursDAY,Low,Medium,37719,2022-08-13,35.69,4876.08 kWh
+BLD-1530-OK,Industrial,Giza,Mohandessin(32,wednesday,Low,High,4533m2,2021-10-24,36.19,3835 kWh
+BLD-1531-FB,Commercial,Giza,Dokki,tuesday,Medium,Low,34061m2,2021-02-16,28.76,4306.74 kWh
+BLD-1532-IP,,Alexandria,Gleem+58,friday,Medium,Medium,47555m2,2023-07-24,-0.61,4726.97 kWh
+BLD-1533-DC,Residential,,$Maadi75,SUNDAY,Low,Low,34572,2021-11-12,24.71,3324.61 kWh
+BLD-1534-MP,Residential,,Gleem,TuEsday,Medium,High,29552m2,2024-06-08,31.91,4082.39 kWh
+BLD-1535-CS,Commercial,,+New Cairo77,Tuesday,Low,Medium,9874m2,2020-01-01,27.56,2870.44 kWh
+BLD-1536-UV,Industrial,,Dokki%26,SaturDay,High,Low,19597m2,2023-09-16,,4371.38 kWh
+BLD-1537-BE,Commercial,Alexandria,#Gleem12,saturDAY,Medium,Low,44665m2,2024-02-16,36.09,4563.58 kWh
+BLD-1538-EZ,Residential,Alexandria,)Smouha30,MoNday,Low,Medium,18811m2,2023-06-05,33.35,3108.88 kWh
+BLD-1539-SJ,Residential,Alexandria,Gleem,SUNDAY,Low,High,5795m2,2020-07-31,23.27,2631.16 kWh
+BLD-1540-CH,Commercial,Alexandria,)Smouha79,MonDay,Low,Medium,29035m2,2020-08-05,38.92,4132.91 kWh
+BLD-1541-DR,Commercial,Alexandria,Smouha&75,saturDAY,Low,Medium,29365m2,2024-11-23,29.65,4063.62 kWh
+BLD-1542-YN,Commercial,,New Cairo$48,WEDNESDAY,Low,Low,2606m2,2020-01-01,26.64,2372.16 kWh
+BLD-1543-TT,Commercial,Cairo,New Cairo)52,Sunday,High,Low,1322m2,2020-01-01,33.64,2839.18 kWh
+BLD-1544-ZT,Residential,Alexandria,)37Gleem,tuesDAY,Low,Low,20644,2021-09-04,20.0,2904.51 kWh
+BLD-1545-HY,Commercial,,New Cairo,Saturday,High,Medium,38506m2,2021-06-24,38.04,5177.22 kWh
+BLD-1546-QM,Residential,Giza,_92Mohandessin,MONDAY,High,Low,18524,2022-01-16,31.79,3168.71 kWh
+BLD-1547-OO,Industrial,Cairo,Maadi!87,ThursDay,Medium,High,35122m2,2024-09-20,42.79,5513.36 kWh
+BLD-1548-JS,Industrial,Cairo,Maadi,sunDAY,High,Low,20549,2020-11-23,37.02,4164.5 kWh
+BLD-1549-NJ,Commercial,Giza,Dokki*36,SuNday,Low,High,21439m2,2024-07-11,32.07,4073.01 kWh
+BLD-1550-ST,Industrial,Giza,%Dokki89,Saturday,High,Medium,38073m2,2024-12-19,44.27,5542.74 kWh
+BLD-1551-BT,Commercial,,Dokki,sunDAY,Medium,Low,27205,2023-04-24,33.78,4023.35 kWh
+BLD-1552-XD,,,Heliopolis*6,Sunday,High,Low,33475m2,2024-10-27,40.15,4090.65 kWh
+BLD-1553-YG,Residential,Giza,%Dokki53,sunDAY,High,Low,10347m2,2023-07-20,29.46,3027.78 kWh
+BLD-1554-UG,Commercial,Alexandria,Smouha,sunDAY,High,Low,10896,2021-01-20,32.82,3509.87 kWh
+BLD-1555-IV,Industrial,Giza,Dokki!95,sunDAY,Medium,Medium,32909,2024-12-31,38.85,5028.58 kWh
+BLD-1556-CF,Residential,Giza,Mohandessin,SunDay,Medium,Low,36340m2,2021-10-01,31.4,3880.66 kWh
+BLD-1557-HF,Residential,Cairo,(96Maadi,SaTurday,Low,Medium,30129,2023-08-18,31.39,3837.78 kWh
+BLD-1558-RC,Industrial,,)5Maadi,sunDAY,Low,Low,16869,2022-12-07,33.63,3598.99 kWh
+BLD-1559-FA,Residential,Giza,Mohandessin,Saturday,High,High,20603m2,2023-10-28,32.95,4082.56 kWh
+BLD-1560-NO,Industrial,,-Maadi99,SunDay,Medium,Low,34580m2,2023-11-10,40.79,4831.96 kWh
+BLD-1561-WT,Commercial,Alexandria,=Smouha17,monday,High,Medium,30527m2,2024-02-05,,4616.89 kWh
+BLD-1562-PJ,,Alexandria,=32Smouha,Saturday,Medium,Low,22236m2,2020-07-13,36.33,3688.46 kWh
+BLD-1563-BH,Industrial,Cairo,$Maadi0,Monday,Low,Low,9282m2,2020-01-01,27.65,3157.54 kWh
+BLD-1564-JW,Industrial,Cairo,!16New Cairo,THursday,Low,Medium,4297m2,2022-11-02,36.01,3396.51 kWh
+BLD-1565-JW,Residential,,=15New Cairo,monday,Low,Low,49345m2,2021-05-23,35.83,4537.9 kWh
+BLD-1566-OC,Industrial,Giza,)Dokki61,WednesDay,Medium,High,28645,2021-08-01,-3.91,5097.96 kWh
+BLD-1567-VH,Commercial,Giza,+Mohandessin6,tuesDAY,Low,Medium,46148m2,2020-09-08,-3.57,4659.4 kWh
+BLD-1568-IZ,Commercial,,Heliopolis(21,Saturday,Low,Low,29757m2,2020-04-01,23.31,3578.29 kWh
+BLD-1569-ZU,Commercial,,@Gleem40,FRIday,Low,Low,32765m2,2023-05-03,33.22,4075.67 kWh
+BLD-1570-SV,Industrial,Cairo,Heliopolis,SaTurday,High,Low,24558m2,2021-11-25,37.92,4566.41 kWh
+BLD-1571-ZG,Commercial,Giza,Mohandessin,SaTurday,Medium,High,12842m2,2022-03-17,41.22,3893.95 kWh
+BLD-1572-ND,Industrial,,#84Smouha,wednesday,High,Low,40464m2,2024-04-27,45.92,5633.01 kWh
+BLD-1573-RH,Residential,,Mohandessin+30,wednESDAY,Low,High,43820,2020-05-19,35.68,4376.22 kWh
+BLD-1574-UE,Industrial,Cairo,Maadi$83,MoNday,Low,High,1025,2023-11-11,36.33,3719.19 kWh
+BLD-1575-IE,Commercial,,(95Maadi,Sunday,High,High,33357,2024-12-31,32.62,5329.97 kWh
+BLD-1576-CB,Commercial,Giza,$Dokki91,SuNday,Low,Medium,24357,2022-08-30,33.86,3751.05 kWh
+BLD-1577-FZ,Industrial,,New Cairo,sunDAY,Low,Low,46460,2024-12-31,44.51,5083.26 kWh
+BLD-1578-JT,Commercial,Cairo,Maadi-80,friDAY,High,High,39504m2,2024-12-31,38.48,5744.86 kWh
+BLD-1579-XS,,Giza,)Dokki78,THURSDAY,High,High,24010,2022-05-30,40.98,4242.17 kWh
+BLD-1580-JO,Commercial,Giza,)Mohandessin66,FRIday,Medium,High,49287m2,2024-12-31,47.39,5862.82 kWh
+BLD-1581-DO,Residential,Giza,(Mohandessin19,saturday,Medium,High,41260,2021-03-29,35.72,4524.71 kWh
+BLD-1582-WJ,Commercial,,New Cairo#90,wednESDAY,High,High,40983,2023-02-13,47.3,5634.35 kWh
+BLD-1583-WM,Residential,Giza,Mohandessin,SunDay,Medium,High,32847m2,2023-10-03,45.09,4085.95 kWh
+BLD-1584-IQ,Commercial,Alexandria,Gleem+48,SATURDAY,Medium,Low,28029,2024-05-31,35.08,3987.84 kWh
+BLD-1585-RP,Residential,Cairo,Maadi,sunDAY,Low,Medium,46740m2,2020-12-15,38.4,4475.56 kWh
+BLD-1586-OC,Industrial,Alexandria,!Gleem86,THursday,Medium,High,39724,2022-10-14,42.56,5662.27 kWh
+BLD-1587-TB,Industrial,,Gleem,WeDnesday,High,Low,33797m2,2024-12-31,38.5,5290.06 kWh
+BLD-1588-NX,,,New Cairo,thursDAY,High,High,45238,2024-12-31,49.63,5867.13 kWh
+BLD-1589-KT,,Alexandria,&Smouha51,SunDay,Low,Low,5584,2020-01-01,21.33,2521.63 kWh
+BLD-1590-IA,,Alexandria,+43Gleem,TUESDAY,High,Low,46697m2,2022-09-18,41.44,5096.3 kWh
+BLD-1591-CH,Residential,Giza,)Mohandessin3,SuNday,High,High,47804m2,2024-12-31,41.36,5481.27 kWh
+BLD-1592-VS,Residential,Alexandria,+79Smouha,SUNDAY,High,Medium,23696m2,2020-01-04,36.85,4058.25 kWh
+BLD-1593-SA,Commercial,Cairo,+Maadi0,sunday,Medium,High,46219m2,2024-12-31,44.96,5473.33 kWh
+BLD-1594-YV,Industrial,Cairo,Heliopolis,saturDAY,High,High,42273m2,2024-12-31,,6217.3 kWh
+BLD-1595-IS,Industrial,Cairo,Heliopolis,WeDnesday,Low,Low,48017m2,2021-11-04,37.97,4958.57 kWh
+BLD-1596-BY,Industrial,,_New Cairo46,saturday,High,High,16396m2,2024-04-08,39.55,5037.86 kWh
+BLD-1597-YF,Industrial,Cairo,-New Cairo71,THURSDAY,Medium,Low,39841m2,2022-11-16,,5025.81 kWh
+BLD-1598-PQ,Residential,Alexandria,&28Smouha,sunday,High,High,21109m2,2022-01-02,32.36,4003.79 kWh
+BLD-1599-UO,Commercial,Alexandria,Gleem,SaturDay,High,Medium,4518,2020-12-02,33.19,3540.45 kWh
+BLD-1600-IF,Residential,Alexandria,(31Gleem,Friday,High,Medium,25838,2024-10-28,37.81,4011.58 kWh
+BLD-1601-SN,Residential,Cairo,Maadi=38,WednesDay,High,Medium,36423m2,2024-10-14,34.83,4749.64 kWh
+BLD-1602-UP,Industrial,Giza,Mohandessin*19,SATURDAY,High,High,27223m2,2024-12-29,-2.85,5446.83 kWh
+BLD-1603-CP,,Alexandria,Gleem,TuesDay,High,Low,31963m2,2023-02-08,45.93,4886.94 kWh
+BLD-1604-LN,Commercial,Giza,_61Mohandessin,SaTurday,Low,Medium,41860m2,2022-04-06,41.98,4934.8 kWh
+BLD-1605-KK,Commercial,Alexandria,Smouha-95,SATURDAY,Low,Low,47100,2022-05-08,45.1,4374.33 kWh
+BLD-1606-VD,Commercial,Giza,^9Dokki,SaturDay,High,Low,5148m2,2020-02-15,25.92,3202.5 kWh
+BLD-1607-FK,Industrial,,Gleem,tuesDAY,Medium,High,23519m2,2023-12-15,35.55,5101.01 kWh
+BLD-1608-NW,Residential,Alexandria,Smouha@96,sunDAY,High,Medium,1620m2,2020-01-01,20.0,2660.28 kWh
+BLD-1609-PJ,Residential,Cairo,Maadi,SaturDay,Medium,High,2579,2022-07-14,34.06,2867.44 kWh
+BLD-1610-VM,Industrial,Cairo,+33Maadi,SuNday,Medium,Medium,42374,2024-11-11,45.89,5390.35 kWh
+BLD-1611-YR,Residential,Cairo,%New Cairo45,FRIday,Medium,Medium,42740m2,2022-03-13,38.11,4649.88 kWh
+BLD-1612-BO,Industrial,Cairo,Heliopolis)70,tuesday,Low,Medium,43908m2,2024-01-26,43.15,5219.66 kWh
+BLD-1613-CK,Residential,,-52New Cairo,THursday,Medium,Low,40787m2,2020-01-23,28.96,3949.4 kWh
+BLD-1614-IK,Residential,Giza,%0Mohandessin,FRIDAY,Medium,Medium,39530,2024-01-13,48.42,4498.07 kWh
+BLD-1615-DY,Residential,Giza,^55Dokki,MonDay,Low,Medium,10895m2,2020-01-01,26.39,2622.38 kWh
+BLD-1616-MQ,Commercial,Cairo,_15Maadi,SATURDAY,Medium,High,33562m2,2024-05-30,40.62,4934.94 kWh
+BLD-1617-AV,Residential,Alexandria,)Gleem28,saturDAY,High,High,26321,2024-03-27,40.68,4496.55 kWh
+BLD-1618-RO,Commercial,Giza,#Dokki50,Sunday,Low,Medium,41901,2021-04-14,40.69,4677.23 kWh
+BLD-1619-NB,Commercial,Alexandria,+Smouha66,SaTurday,Medium,Medium,13213,2020-12-22,34.83,3916.99 kWh
+BLD-1620-GQ,Residential,Giza,Mohandessin@81,SunDay,Low,Medium,22230m2,2020-09-14,25.37,3125.85 kWh
+BLD-1621-LT,Residential,Cairo,^6Heliopolis,friDAY,Medium,High,29102,2024-07-08,36.29,3973.35 kWh
+BLD-1622-YP,Residential,Cairo,New Cairo)45,SunDay,Low,High,29692,2020-01-01,-1.89,3884.07 kWh
+BLD-1623-UO,,Giza,Dokki,Monday,Medium,Low,48979m2,2022-12-14,43.52,4506.27 kWh
+BLD-1624-YB,Commercial,Alexandria,Gleem,SATURDAY,High,Medium,36955,2021-12-04,47.43,4957.36 kWh
+BLD-1625-GI,Residential,Alexandria,^84Smouha,FriDay,Low,Low,13724m2,2021-03-06,21.78,2342.38 kWh
+BLD-1626-RE,Commercial,Alexandria,Gleem=29,sunDAY,High,Medium,39209m2,2022-01-06,,5003.05 kWh
+BLD-1627-JO,,Giza,Dokki+77,Sunday,Medium,Medium,34677m2,2023-04-11,41.64,5272.15 kWh
+BLD-1628-WP,Residential,Alexandria,@44Gleem,saturDAY,Medium,High,29509m2,2021-02-12,37.57,4481.81 kWh
+BLD-1629-DA,Residential,,-Maadi52,Wednesday,High,Low,47233m2,2022-08-25,43.47,4680.87 kWh
+BLD-1630-UT,Residential,,^21Mohandessin,SaTurday,Medium,High,38500,2021-08-23,31.04,4698.47 kWh
+BLD-1631-ZH,Commercial,Cairo,Maadi,SuNday,Medium,High,19756m2,2022-07-10,43.51,4370.89 kWh
+BLD-1632-WF,Residential,Cairo,Maadi,TuEsday,Medium,High,31159,2020-09-06,34.92,4208.74 kWh
+BLD-1633-JR,Commercial,,Heliopolis@4,THursday,Medium,High,17675,2022-04-16,32.64,4036.68 kWh
+BLD-1634-AR,Commercial,,New Cairo+60,WeDnesday,Low,Medium,20123m2,2020-01-01,26.32,3441.55 kWh
+BLD-1635-NC,Residential,Giza,#Mohandessin41,Sunday,High,Medium,25361m2,2020-01-28,26.5,3937.59 kWh
+BLD-1636-HD,Residential,Alexandria,!0Gleem,saturDAY,High,High,49256m2,2023-03-13,46.27,5329.29 kWh
+BLD-1637-OD,Residential,,$80Gleem,SaturDay,High,Medium,35339m2,2023-03-28,37.73,4494.99 kWh
+BLD-1638-UE,Commercial,Alexandria,Smouha#12,SATURDAY,High,Medium,12153m2,2024-02-08,26.88,3733.52 kWh
+BLD-1639-PW,Industrial,,New Cairo%2,TUESDAY,High,High,39698,2021-12-29,40.98,6014.94 kWh
+BLD-1640-JQ,Industrial,,New Cairo-12,Monday,Low,Medium,18833m2,2021-12-14,,4178.36 kWh
+BLD-1641-WI,Residential,Alexandria,Smouha_47,sunDAY,Low,Medium,21081,2021-12-27,35.49,2972.61 kWh
+BLD-1642-NP,Industrial,Giza,%Mohandessin44,Tuesday,Medium,Medium,15061m2,2021-10-17,33.28,4018.77 kWh
+BLD-1643-PH,Industrial,Alexandria,)Gleem48,SATURDAY,Low,Low,41631m2,2020-10-28,31.81,4684.93 kWh
+BLD-1644-OR,Industrial,Giza,^2Dokki,Thursday,High,Medium,19529,2020-12-23,,4612.22 kWh
+BLD-1645-EM,Residential,,Dokki*72,Monday,High,Low,33539,2023-05-26,30.59,3593.42 kWh
+BLD-1646-GT,Residential,Giza,Dokki&51,SuNday,High,Medium,28196,2024-07-31,21.62,3907.03 kWh
+BLD-1647-QX,Commercial,Cairo,Heliopolis%53,SATURDAY,Medium,High,3420,2020-12-21,32.22,3697.77 kWh
+BLD-1648-EC,Commercial,Cairo,&Heliopolis60,SaTurday,Low,Low,2982m2,2021-01-30,,2500.56 kWh
+BLD-1649-IY,Commercial,Cairo,Maadi,TuEsday,Medium,Low,18881,2023-06-07,34.74,3558.78 kWh
+BLD-1650-ZN,Commercial,Giza,Mohandessin$79,WednesDay,Medium,Medium,32623m2,2022-05-04,47.44,4772.8 kWh
+BLD-1651-KZ,Commercial,Giza,+70Dokki,Saturday,Medium,Medium,47214,2022-07-29,46.38,5126 kWh
+BLD-1652-QI,Commercial,Alexandria,Gleem(52,SaturDay,Medium,High,27237m2,2023-12-29,36.19,4495.21 kWh
+BLD-1653-AJ,Commercial,Giza,Mohandessin,Wednesday,Medium,High,27288,2022-07-13,32.56,4518.12 kWh
+BLD-1654-XJ,Residential,Alexandria,Gleem_90,MonDay,High,Low,30257m2,2022-07-10,44.78,3816.15 kWh
+BLD-1655-SS,Commercial,Giza,Mohandessin,SaTurday,High,High,49653m2,2024-12-31,,5980.98 kWh
+BLD-1656-VP,Industrial,Cairo,Maadi,Sunday,High,High,26349m2,2022-10-10,44.08,5563.48 kWh
+BLD-1657-EO,Residential,Alexandria,Smouha,Saturday,Low,Low,37629,2020-01-01,32.52,3723.56 kWh
+BLD-1658-RP,Commercial,Cairo,Maadi,wednesday,High,High,41696,2023-03-08,46.43,5809.3 kWh
+BLD-1659-LK,Industrial,Cairo,Heliopolis_73,saturDAY,Low,High,14098m2,2023-12-17,34.73,4169.39 kWh
+BLD-1660-RY,,,Smouha,FRIday,Low,High,37435,2024-02-26,36.54,4773.54 kWh
+BLD-1661-RM,Commercial,Giza,Dokki#66,MonDay,Medium,High,8470m2,2020-01-01,,3761.75 kWh
+BLD-1662-OK,Residential,Cairo,New Cairo!41,WednesDay,Low,High,25019m2,2022-10-30,31.4,3549.48 kWh
+BLD-1663-GW,Industrial,Giza,#Dokki55,FriDay,Medium,High,16501,2021-10-26,37.18,4854.04 kWh
+BLD-1664-HS,Residential,,)12Mohandessin,Saturday,Medium,Medium,13909m2,2020-01-01,25.82,3141.67 kWh
+BLD-1665-MH,Residential,Giza,&31Mohandessin,THURSDAY,Low,High,802m2,2020-01-01,25.27,2457.6 kWh
+BLD-1666-YN,Industrial,Cairo,Maadi_46,Friday,High,High,18523,2021-08-01,39.71,5054.19 kWh
+BLD-1667-BK,Industrial,Giza,Mohandessin,saturday,Low,High,10003m2,2020-07-16,40.59,3916.46 kWh
+BLD-1668-XP,Industrial,Cairo,^2New Cairo,Sunday,High,High,32684m2,2024-12-31,32.99,5709.26 kWh
+BLD-1669-WZ,Industrial,,&Dokki50,monDAY,Medium,High,46039m2,2024-12-31,50.0,5822.52 kWh
+BLD-1670-MM,Commercial,Alexandria,$Smouha59,sunday,High,Low,22063,2020-07-07,40.04,4015.07 kWh
+BLD-1671-VZ,Commercial,Alexandria,!43Gleem,Saturday,High,High,20008m2,2021-09-08,29.66,4752.66 kWh
+BLD-1672-UE,Commercial,Giza,=97Dokki,SaturDay,High,Medium,20433,2021-01-12,34.37,4254.59 kWh
+BLD-1673-PB,Industrial,Alexandria,%0Gleem,SaTurday,High,Low,40474,2024-09-05,41.07,5358.22 kWh
+BLD-1674-EQ,Commercial,Giza,Dokki_57,Saturday,Medium,High,42787,2024-12-23,36.56,5382.43 kWh
+BLD-1675-SK,Residential,Cairo,New Cairo,monDAY,High,High,35696m2,2024-08-18,36.55,4922.82 kWh
+BLD-1676-DO,Industrial,,Maadi,ThursDay,Low,Low,20837,2023-04-05,27.66,3729.59 kWh
+BLD-1677-DQ,Residential,Cairo,!98New Cairo,TUESDAY,Medium,High,43259,2023-06-24,46.63,4712.33 kWh
+BLD-1678-OA,Residential,Giza,@Mohandessin0,SATURDAY,Low,Low,14112m2,2020-01-01,29.08,2470.59 kWh
+BLD-1679-XE,Industrial,Alexandria,%94Smouha,sunDAY,Low,Medium,26022,2022-10-17,42.01,4314.56 kWh
+BLD-1680-NU,Commercial,Alexandria,Gleem,Saturday,Medium,Medium,26119,2023-01-17,37.83,4039.93 kWh
+BLD-1681-EC,,Cairo,Heliopolis_41,thursDAY,High,Medium,40248,2020-08-04,32.28,4488.84 kWh
+BLD-1682-PZ,Commercial,,Maadi,SaTurday,Medium,Low,24395m2,2020-06-18,-0.87,3844.62 kWh
+BLD-1683-IK,Industrial,Alexandria,Smouha,Saturday,Low,Medium,13880m2,2022-01-09,34.89,3733.24 kWh
+BLD-1684-TW,Residential,Alexandria,!75Gleem,TUESDAY,Low,High,39163m2,2022-06-06,31.65,4454.51 kWh
+BLD-1685-MU,,Giza,^Mohandessin35,monday,Low,Medium,4472m2,2022-04-14,31.34,2996.99 kWh
+BLD-1686-CK,Industrial,Alexandria,#95Smouha,MonDay,High,Medium,20316,2024-04-06,38.06,4776.54 kWh
+BLD-1687-VR,Residential,Alexandria,+67Gleem,SaTurday,Low,Medium,38067,2021-05-16,31.85,3870.32 kWh
+BLD-1688-MK,Commercial,Giza,Mohandessin_78,MonDay,Medium,Medium,7138m2,2023-02-19,-2.34,3372.2 kWh
+BLD-1689-UW,Commercial,Giza,)Mohandessin24,WEDNESDAY,Medium,High,25417,2024-12-31,-1.86,4676.25 kWh
+BLD-1690-YP,Commercial,Cairo,Maadi,WEDNESDAY,Low,Medium,7040,2021-02-19,24.84,2727.89 kWh
+BLD-1691-RB,Industrial,Alexandria,Gleem^57,wednesday,Medium,Medium,7679,2021-08-08,,4009.27 kWh
+BLD-1692-TC,Industrial,Giza,@81Mohandessin,SaTurday,High,Low,5257m2,2020-01-01,27.49,3679.96 kWh
+BLD-1693-HU,Industrial,,Gleem*73,saturDAY,High,Low,6868,2023-04-18,32.46,3249.36 kWh
+BLD-1694-VJ,Commercial,Giza,$Dokki31,WEDNESDAY,Medium,Medium,18940m2,2024-08-25,36.88,3979.37 kWh
+BLD-1695-HX,Industrial,,Mohandessin,TuEsday,Low,Low,22427m2,2022-10-23,32.2,3880.32 kWh
+BLD-1696-CN,Commercial,Alexandria,Smouha%72,SUNDAY,High,High,36744m2,2024-07-22,43.2,5195.15 kWh
+BLD-1697-DY,Commercial,Giza,Dokki,friday,High,Medium,35411m2,2021-01-07,33.65,4798.25 kWh
+BLD-1698-UW,Residential,Giza,Mohandessin,wednesday,Low,Low,43701m2,2023-05-19,38.2,3952.58 kWh
+BLD-1699-DO,,Giza,+Mohandessin70,WednesDay,High,Medium,44827,2024-12-31,41.38,5272.05 kWh
+BLD-1700-FW,Residential,Cairo,+58New Cairo,Friday,Medium,Medium,18405m2,2021-07-12,27.24,3234.06 kWh
+BLD-1701-JA,Commercial,Cairo,^2Heliopolis,SuNday,Medium,Low,15523m2,2020-01-01,33.97,3177.82 kWh
+BLD-1702-BK,Commercial,Alexandria,Smouha,SunDay,Medium,High,46000m2,2024-05-26,-2.34,5342.17 kWh
+BLD-1703-ZB,Industrial,,Dokki_77,saturday,Medium,Low,3520,2023-04-28,24.4,3419.14 kWh
+BLD-1704-JL,Residential,Cairo,#55New Cairo,THursday,Medium,High,29926m2,2023-02-08,27.89,4090.2 kWh
+BLD-1705-LN,Residential,Alexandria,-Gleem13,SUNDAY,Medium,Low,15359,2020-08-19,29.56,2788.49 kWh
+BLD-1706-EH,Commercial,,#73Gleem,saturday,High,Medium,39782m2,2022-04-21,36.42,5268.16 kWh
+BLD-1707-QN,Residential,Cairo,New Cairo,MonDay,Low,Medium,6871,2020-09-06,32.11,2364.9 kWh
+BLD-1708-SV,Residential,Giza,Mohandessin,SATURDAY,Medium,Low,29234m2,2020-06-15,21.99,3519.56 kWh
+BLD-1709-ZF,Industrial,Cairo,Maadi,TuesDay,Low,Medium,28435m2,2023-04-09,,4391.84 kWh
+BLD-1710-FF,Commercial,Giza,Dokki,THursday,Low,Medium,38373,2020-08-18,37.87,4417.34 kWh
+BLD-1711-CT,Industrial,Giza,^Dokki50,SaturDay,High,High,16208m2,2024-10-14,38.63,4763.57 kWh
+BLD-1712-MT,Industrial,,Dokki,SunDay,High,Medium,13781,2024-12-31,-0.88,4696.73 kWh
+BLD-1713-VH,Industrial,Alexandria,^59Gleem,SaTurday,Low,Medium,14635m2,2023-02-11,35.52,3900.33 kWh
+BLD-1714-PS,Industrial,,Dokki+30,SUNDAY,Medium,Medium,26463,2024-02-09,38.22,4655.22 kWh
+BLD-1715-EH,Industrial,Alexandria,Smouha,Tuesday,High,Low,37938,2022-12-08,,5711.22 kWh
+BLD-1716-OU,Commercial,Cairo,(Heliopolis60,Sunday,Medium,Low,35546m2,2020-05-12,36.37,4245.53 kWh
+BLD-1717-IO,Industrial,Giza,!Dokki21,Saturday,Low,Medium,11289m2,2020-12-26,,3602.33 kWh
+BLD-1718-IV,Commercial,Alexandria,Gleem,SuNday,Medium,Low,48788,2023-10-28,39.09,5032.83 kWh
+BLD-1719-AZ,Residential,Giza,+Dokki58,thursday,Low,Medium,5945m2,2022-12-22,23.53,2295.33 kWh
+BLD-1720-OJ,Residential,Cairo,Heliopolis,sunday,Medium,High,38109m2,2021-04-22,40.24,4729.67 kWh
+BLD-1721-VR,Residential,Cairo,=78Heliopolis,TuEsday,Low,Low,17225,2022-04-30,20.0,2500.08 kWh
+BLD-1722-FC,Commercial,Alexandria,$Gleem44,MonDay,Low,High,49270m2,2023-06-15,37.17,5438.11 kWh
+BLD-1723-OL,Residential,Alexandria,*98Gleem,WEDNESDAY,Medium,Medium,43020m2,2024-02-18,41.66,4642.27 kWh
+BLD-1724-SJ,Residential,,(Mohandessin46,thursDAY,Low,Low,49638,2024-12-31,38.31,4517.48 kWh
+BLD-1725-UN,Commercial,Alexandria,Gleem%7,SaTurday,Low,Medium,27130,2020-12-16,33.71,4032.83 kWh
+BLD-1726-WI,Commercial,Cairo,New Cairo-44,FRIday,Medium,Low,11583m2,2020-01-01,30.29,3332.69 kWh
+BLD-1727-OJ,Residential,Alexandria,Smouha%72,friday,Low,Medium,46663m2,2022-09-22,-4.36,4535.64 kWh
+BLD-1728-GM,Industrial,,&80Smouha,TUESDAY,High,Low,1779,2024-03-17,29.43,3599.73 kWh
+BLD-1729-PD,Industrial,,)Dokki33,TuesDay,Low,Low,18588m2,2024-04-23,29.55,3792.47 kWh
+BLD-1730-HM,Commercial,Cairo,)New Cairo63,SUNDAY,Medium,Medium,22680,2024-01-26,35.79,4092.14 kWh
+BLD-1731-SL,Commercial,Giza,!Dokki43,tuesday,Low,Medium,37698,2021-03-15,,4339.55 kWh
+BLD-1732-SJ,Commercial,Cairo,Maadi,SaturDay,Medium,Low,37648m2,2023-09-24,40.73,4736.14 kWh
+BLD-1733-WJ,Industrial,Alexandria,Smouha,SaturDay,High,Medium,27990m2,2022-07-23,34.41,5249.84 kWh
+BLD-1734-AV,Industrial,,(Heliopolis37,SATURDAY,Medium,Medium,49768,2024-12-31,49.89,5763.85 kWh
+BLD-1735-MI,Residential,Alexandria,%Smouha27,SaTurday,Medium,High,22227m2,2022-09-19,37.0,4087.05 kWh
+BLD-1736-AS,Residential,Cairo,(29Maadi,Sunday,High,Medium,15898m2,2021-09-13,31.63,3377.38 kWh
+BLD-1737-VY,Residential,,_98New Cairo,friday,Low,High,8406m2,2020-01-01,31.6,2842.91 kWh
+BLD-1738-XB,Industrial,Cairo,*71Heliopolis,tuesday,High,Low,23779m2,2024-08-24,-2.2,4684.16 kWh
+BLD-1739-TX,Industrial,Cairo,)New Cairo85,Friday,High,High,2550,2023-05-29,41.22,4374.59 kWh
+BLD-1740-PJ,,Giza,Dokki,sunDAY,High,Low,47719m2,2024-12-31,37.08,5781.83 kWh
+BLD-1741-YZ,Commercial,Giza,Mohandessin,wednESDAY,Low,High,36112,2024-12-31,33.05,4722.9 kWh
+BLD-1742-HT,Industrial,,#Gleem96,sunday,Medium,Low,20456,2024-08-11,31.37,3975.14 kWh
+BLD-1743-ZL,Industrial,Giza,Mohandessin,Tuesday,High,High,46265,2023-06-19,48.15,6212.59 kWh
+BLD-1744-HU,Residential,Cairo,%New Cairo43,Thursday,Low,Medium,46526,2020-11-25,,4276.66 kWh
+BLD-1745-GT,Residential,Alexandria,$Smouha23,SunDay,Medium,High,2262m2,2021-08-14,,2872.63 kWh
+BLD-1746-IV,Industrial,Giza,Mohandessin,monDAY,High,High,10681,2023-06-03,39.11,4635.28 kWh
+BLD-1747-YX,,Cairo,Maadi-17,wednESDAY,High,Low,49438m2,2022-02-09,38.52,5225.35 kWh
+BLD-1748-YV,Commercial,Cairo,Maadi$1,saturDAY,High,Medium,1935m2,2022-09-15,28.26,3463.09 kWh
+BLD-1749-VE,,Alexandria,Gleem=97,SaturDay,Medium,High,12036,2023-06-18,-2.37,4018.05 kWh
+BLD-1750-UD,Residential,,%66New Cairo,MONDAY,Medium,Low,12612m2,2022-05-25,22.67,2786.93 kWh
+BLD-1751-UU,Residential,,&86Mohandessin,sunDAY,Medium,Medium,28288m2,2022-10-05,26.12,3655.82 kWh
+BLD-1752-BJ,Commercial,Alexandria,%66Gleem,ThursDay,Medium,Medium,12055m2,2020-08-24,27.68,3634.65 kWh
+BLD-1753-ZO,,Cairo,Maadi,Thursday,Low,High,38758m2,2024-12-31,47.3,5327.65 kWh
+BLD-1754-BS,Industrial,Alexandria,#Smouha64,WEDNESDAY,Low,Medium,32380,2021-02-26,33.16,4500.16 kWh
+BLD-1755-LX,Residential,,^Smouha4,sunday,Low,Low,26392,2022-06-26,40.4,3066.15 kWh
+BLD-1756-EC,Industrial,Alexandria,Gleem,Saturday,Low,Medium,47956m2,2024-09-15,44.27,5245.78 kWh
+BLD-1757-JK,Commercial,Alexandria,=72Gleem,FRIDAY,Low,Low,45580m2,2022-12-21,38.02,4460.84 kWh
+BLD-1758-XN,Residential,Cairo,New Cairo,SaTurday,High,High,6276m2,2021-07-10,25.02,3118.23 kWh
+BLD-1759-FG,Commercial,Alexandria,=27Smouha,MoNday,Medium,Medium,36340m2,2020-09-30,40.68,4516.02 kWh
+BLD-1760-EZ,Industrial,Cairo,&Maadi20,SaTurday,Low,High,49270m2,2022-06-27,43.37,5877.19 kWh
+BLD-1761-RL,Commercial,Cairo,New Cairo=71,Sunday,Medium,Medium,31790m2,2024-02-23,38.19,4534.07 kWh
+BLD-1762-QQ,Industrial,,+Maadi16,WeDnesday,Medium,Low,33820,2020-10-22,,4854.4 kWh
+BLD-1763-IF,Residential,Giza,#Mohandessin71,WEDNESDAY,Medium,Low,3073m2,2021-01-15,23.31,2288.52 kWh
+BLD-1764-IP,Residential,Giza,%Mohandessin5,tuesday,Medium,Medium,38743,2021-06-15,,4546.15 kWh
+BLD-1765-ZJ,Residential,Giza,Dokki!40,WeDnesday,Low,Low,14494m2,2020-01-01,,2311.29 kWh
+BLD-1766-XK,Commercial,Alexandria,!79Smouha,Sunday,High,Low,12418m2,2020-04-08,-3.3,3525.79 kWh
+BLD-1767-ZD,Commercial,Giza,$88Mohandessin,Tuesday,Medium,High,10024,2021-04-03,41.31,3838.73 kWh
+BLD-1768-OC,Residential,Cairo,%43New Cairo,saturDAY,Low,High,24070m2,2020-09-24,28.92,3580.56 kWh
+BLD-1769-EY,Residential,Cairo,!94Heliopolis,FRIday,Medium,Low,47690m2,2023-04-02,44.83,4377.04 kWh
+BLD-1770-HV,Industrial,Cairo,*New Cairo27,FRIDAY,High,Low,17014,2023-02-09,39.6,4336.02 kWh
+BLD-1771-XV,Industrial,Alexandria,Gleem*39,THURSDAY,Medium,Medium,26515m2,2024-12-31,35.88,4658.38 kWh
+BLD-1772-MZ,Industrial,Cairo,Heliopolis,thursDAY,High,High,14359m2,2023-05-09,,4658.27 kWh
+BLD-1773-RL,Residential,Alexandria,Gleem,SuNday,Medium,High,9320,2022-03-22,33.39,3140.2 kWh
+BLD-1774-CZ,Commercial,Giza,Mohandessin,SaturDay,Medium,Medium,26517m2,2022-02-19,40.03,4468.57 kWh
+BLD-1775-MA,,,!Mohandessin41,ThursDay,High,Low,34223,2024-06-01,34.77,5212.46 kWh
+BLD-1776-IR,Commercial,,Dokki,tuesDAY,High,Low,39025m2,2023-03-02,36.94,4949.14 kWh
+BLD-1777-DO,Residential,Alexandria,Gleem(69,Saturday,High,Low,5203,2020-01-01,,2797.21 kWh
+BLD-1778-LV,Commercial,Alexandria,Gleem,sunday,High,Low,29986,2021-02-11,37.18,4514.09 kWh
+BLD-1779-XV,Commercial,,New Cairo,TuesDay,Low,Medium,25650,2022-06-05,36.99,3976.81 kWh
+BLD-1780-IS,Residential,Giza,@4Mohandessin,SuNday,Medium,Low,26623,2022-01-11,,3304.91 kWh
+BLD-1781-MU,Industrial,Cairo,Heliopolis+86,saturday,High,High,47117m2,2024-12-31,,6530.6 kWh
+BLD-1782-LD,Industrial,Cairo,-New Cairo46,WEDNESDAY,Low,High,21616,2022-04-10,40.31,4688.81 kWh
+BLD-1783-VH,,Giza,$79Dokki,SATURDAY,Medium,Low,32360m2,2022-07-11,,3630.24 kWh
+BLD-1784-PA,Residential,Alexandria,@97Gleem,SaturDay,High,Low,11925m2,2020-09-01,30.18,2921.01 kWh
+BLD-1785-TR,Residential,Giza,@Dokki19,Tuesday,Medium,Medium,34162m2,2022-04-11,39.76,4090.41 kWh
+BLD-1786-KT,Commercial,Giza,Dokki!40,SATURDAY,High,High,2469m2,2020-04-16,36.83,3797.14 kWh
+BLD-1787-HU,Residential,,Smouha#4,saturday,Medium,High,7222m2,2022-07-15,,2906.57 kWh
+BLD-1788-CU,Residential,Giza,Dokki,Sunday,Low,Low,30720,2020-06-28,29.78,3314.91 kWh
+BLD-1789-OW,Residential,Giza,Dokki*92,SaturDay,Medium,Low,28673m2,2020-01-01,23.69,3487.69 kWh
+BLD-1790-JU,Commercial,Cairo,!Heliopolis35,TUESDAY,Medium,Medium,16809m2,2020-06-12,35.15,3818.71 kWh
+BLD-1791-ND,,Cairo,#23Heliopolis,ThursDay,Low,Medium,33281m2,2020-10-31,-4.63,4205.07 kWh
+BLD-1792-EB,Industrial,Giza,#74Dokki,Monday,Low,Low,25438m2,2020-02-22,37.0,4233.24 kWh
+BLD-1793-BJ,Residential,Giza,Dokki@46,Friday,High,Medium,48138m2,2022-03-27,35.69,5147.4 kWh
+BLD-1794-PD,Industrial,Cairo,Heliopolis)9,Wednesday,High,High,36446,2024-12-06,42.28,6069.51 kWh
+BLD-1795-DH,,,Smouha,saturDAY,Low,Low,48408m2,2022-11-30,39.71,4102.94 kWh
+BLD-1796-RE,Industrial,,(New Cairo67,SaTurday,Low,High,28970m2,2024-12-31,40.66,5050.37 kWh
+BLD-1797-MO,Residential,Giza,!Mohandessin82,MonDay,Medium,High,45133,2023-10-29,43.04,4910.15 kWh
+BLD-1798-LV,Industrial,Alexandria,=94Smouha,thursday,Medium,Medium,31311m2,2023-07-17,41.7,5168.99 kWh
+BLD-1799-XW,Residential,Alexandria,-Smouha6,Sunday,Medium,Medium,45528,2024-12-31,-0.17,4592.9 kWh
+BLD-1800-RN,Industrial,Giza,Mohandessin,SaTurday,High,Low,30475,2023-03-31,44.35,4935.7 kWh
+BLD-1801-SX,Commercial,Giza,&Dokki28,Thursday,High,Low,32919m2,2021-07-13,35.98,4640.78 kWh
+BLD-1802-XE,Industrial,Alexandria,Smouha,FRIday,Low,Low,32205,2024-07-05,38.69,4634.34 kWh
+BLD-1803-NU,Commercial,Cairo,#Maadi46,MONDAY,Low,High,41100m2,2023-03-06,38.84,5063.09 kWh
+BLD-1804-DP,Commercial,Cairo,)19New Cairo,tuesday,High,Low,25503m2,2023-01-22,34.65,4366 kWh
+BLD-1805-TN,Residential,Giza,+Mohandessin89,SuNday,Medium,Low,36685,2021-11-15,33.51,4091.56 kWh
+BLD-1806-IB,Residential,Giza,Dokki&91,monday,Low,High,8313,2020-01-01,27.57,2745.7 kWh
+BLD-1807-WL,Industrial,Giza,-12Dokki,SaturDay,Low,High,12675m2,2023-12-12,32.39,4034.11 kWh
+BLD-1808-GO,Commercial,Cairo,Maadi@78,Monday,High,High,16871m2,2024-01-29,42.55,4413.74 kWh
+BLD-1809-OH,,Giza,Dokki,TUESDAY,Low,Medium,2639m2,2020-01-01,22.75,2779.25 kWh
+BLD-1810-LD,Industrial,Giza,Dokki)78,MoNday,Low,Low,47795,2024-12-31,,5156.72 kWh
+BLD-1811-VL,Commercial,,!Dokki75,TuEsday,Medium,Low,10150,2020-01-01,26.16,2998.57 kWh
+BLD-1812-RU,,Alexandria,=93Gleem,saturDAY,High,Low,3541m2,2021-07-03,37.55,3467.74 kWh
+BLD-1813-LB,Commercial,,Heliopolis$1,FRIday,Low,Medium,27160,2020-02-08,33.85,3778.19 kWh
+BLD-1814-MI,Industrial,Giza,Mohandessin=59,Sunday,High,High,26655m2,2022-08-19,47.69,5407.04 kWh
+BLD-1815-GD,Commercial,,Smouha,FRIday,High,Medium,41624m2,2024-12-31,35.31,5237.3 kWh
+BLD-1816-OC,Industrial,Cairo,(13New Cairo,sunday,High,Medium,23616m2,2023-04-14,42.39,5107 kWh
+BLD-1817-VG,Industrial,Giza,&Dokki22,SuNday,High,Low,48864,2024-12-31,48.82,5693.96 kWh
+BLD-1818-UU,,Giza,Mohandessin#42,Wednesday,Medium,High,11883,2020-01-01,32.05,3570.31 kWh
+BLD-1819-TA,Commercial,,)Smouha9,Sunday,Low,Low,24527,2021-05-26,36.98,3653.25 kWh
+BLD-1820-BZ,Commercial,,=New Cairo93,tuesDAY,Low,Medium,37811,2024-07-20,35.32,4534.85 kWh
+BLD-1821-KH,Residential,,New Cairo,THURSDAY,High,High,20041,2023-02-06,42.03,4217.88 kWh
+BLD-1822-EZ,Residential,Alexandria,=Smouha82,SATURDAY,High,Low,9610,2020-01-01,,2556.63 kWh
+BLD-1823-SG,Industrial,Giza,)Mohandessin33,SUNDAY,Low,High,42346,2024-12-31,,5390.76 kWh
+BLD-1824-CY,Commercial,,^Gleem56,TuesDay,High,High,15548m2,2020-10-11,36.15,4616.46 kWh
+BLD-1825-RG,Industrial,Giza,%Dokki29,SATURDAY,Low,Low,11882m2,2020-01-01,35.59,3146.62 kWh
+BLD-1826-SG,Residential,Alexandria,Smouha@12,WednesDay,Medium,High,38658,2021-12-05,46.48,4813.61 kWh
+BLD-1827-HK,Commercial,Cairo,=Maadi98,SaTurday,Low,Low,3219m2,2022-05-25,23.33,2602.69 kWh
+BLD-1828-YE,Industrial,Giza,(1Mohandessin,saturDAY,High,Medium,37266,2024-12-31,43.3,5753.93 kWh
+BLD-1829-ZT,Industrial,,*41Gleem,Monday,Medium,High,37301,2024-12-31,41.7,5393.95 kWh
+BLD-1830-AI,,Alexandria,*66Smouha,ThursDay,Low,High,23893,2022-05-24,-3.35,3507.49 kWh
+BLD-1831-EE,Industrial,Giza,!56Mohandessin,SuNday,Low,Low,49981m2,2024-03-03,37.89,5241.89 kWh
+BLD-1832-RI,Residential,Alexandria,Smouha@17,sunDAY,High,Medium,14075m2,2020-04-01,26.03,3388.25 kWh
+BLD-1833-ZF,,,Dokki@70,SunDay,Low,Low,43323m2,2022-09-04,35.39,4727.81 kWh
+BLD-1834-DV,Residential,Alexandria,%Gleem40,sunDAY,Medium,Low,27116m2,2022-01-29,,3571.76 kWh
+BLD-1835-AE,Industrial,Giza,Dokki^66,SuNday,Medium,Low,45584,2024-12-31,44.15,5415.31 kWh
+BLD-1836-AL,Commercial,,Mohandessin-25,WEDNESDAY,Low,High,16350,2024-01-19,39.3,3675.54 kWh
+BLD-1837-ZZ,Residential,Alexandria,(Smouha57,THURSDAY,High,High,32383m2,2024-07-05,35.09,4847.12 kWh
+BLD-1838-HS,Industrial,Cairo,+44New Cairo,SaTurday,High,Low,10677,2020-07-07,39.84,4173.1 kWh
+BLD-1839-KA,Residential,Cairo,New Cairo,wednESDAY,Medium,High,6204m2,2020-01-06,27.81,3100.51 kWh
+BLD-1840-FI,Commercial,,=56New Cairo,wednesday,Medium,Low,46667m2,2020-10-25,38.07,4638.97 kWh
+BLD-1841-BE,Commercial,Giza,#2Mohandessin,wednESDAY,Low,High,24363m2,2022-03-17,36.99,3938.82 kWh
+BLD-1842-XN,Commercial,Cairo,Maadi@18,SunDay,High,Low,35201m2,2020-08-04,32.41,4504.67 kWh
+BLD-1843-QD,,,Mohandessin,wednESDAY,Low,Low,23034,2020-07-31,36.7,4104.1 kWh
+BLD-1844-XC,Commercial,Alexandria,@58Smouha,FRIday,Low,Medium,781,2021-06-13,27.02,2696.49 kWh
+BLD-1845-PO,,Alexandria,+1Gleem,Sunday,High,Medium,31023,2024-04-13,38.9,4378.55 kWh
+BLD-1846-YL,,Alexandria,Smouha,thursday,Low,Medium,32466m2,2022-12-02,41.24,4905.84 kWh
+BLD-1847-QS,Residential,Giza,(Dokki18,friDAY,Low,Medium,18809m2,2022-02-16,39.21,3002.83 kWh
+BLD-1848-DO,Residential,,Smouha&0,sunday,Medium,Medium,18264m2,2023-05-23,28.19,3471.43 kWh
+BLD-1849-QH,,Alexandria,Gleem&16,tuesday,Medium,Medium,25360m2,2022-08-13,32.58,4103.09 kWh
+BLD-1850-TB,Commercial,,Smouha,saturDAY,Low,High,15163m2,2023-02-10,29.14,3612.86 kWh
+BLD-1851-XZ,Residential,Giza,Dokki,wednESDAY,High,Medium,33481m2,2021-01-09,35.08,4524.49 kWh
+BLD-1852-VQ,Commercial,Cairo,Heliopolis,MONDAY,High,Low,44741,2022-10-26,38.55,5143.73 kWh
+BLD-1853-JO,Industrial,,+66Mohandessin,sunDAY,Low,High,2698m2,2020-01-01,36.57,3496.99 kWh
+BLD-1854-UA,Residential,Giza,=Dokki52,sunDAY,Medium,Low,45069,2021-03-17,42.97,4361.43 kWh
+BLD-1855-BP,Commercial,Giza,+Dokki33,SUNDAY,High,Medium,37179,2024-09-03,38.26,5048.34 kWh
+BLD-1856-MN,Industrial,Giza,Mohandessin&23,FRIDAY,Medium,Low,46663,2021-08-13,38.87,5338.19 kWh
+BLD-1857-VD,Residential,Alexandria,=90Smouha,Wednesday,Low,Medium,42344m2,2021-12-08,37.42,4155.74 kWh
+BLD-1858-PW,Commercial,,%Smouha63,saturDAY,High,Low,33687,2024-12-31,36.79,4798.68 kWh
+BLD-1859-OC,Commercial,Cairo,-21New Cairo,SunDay,High,High,30948m2,2021-02-28,44.28,5147.11 kWh
+BLD-1860-CK,Commercial,Alexandria,!Gleem22,friday,Medium,High,27338m2,2022-11-09,38.97,4601.21 kWh
+BLD-1861-TE,Industrial,Alexandria,Smouha,SaTurday,Low,High,44986m2,2022-11-22,36.63,5472.2 kWh
+BLD-1862-CE,Residential,Giza,=97Dokki,THURSDAY,Medium,Medium,34875,2022-08-03,,4235.19 kWh
+BLD-1863-IT,Industrial,Giza,Mohandessin,SuNday,Low,Low,3749m2,2020-08-24,,2769.99 kWh
+BLD-1864-US,Industrial,Cairo,New Cairo(90,friDAY,Low,Medium,1119m2,2023-10-20,26.6,3196.17 kWh
+BLD-1865-RW,Residential,Giza,$99Mohandessin,SunDay,Low,High,13176m2,2022-04-12,-1.05,3060.91 kWh
+BLD-1866-KM,Commercial,Alexandria,-55Gleem,saturday,Low,Low,45423m2,2024-11-15,38.41,4449.57 kWh
+BLD-1867-TQ,Residential,Alexandria,Smouha,thursDAY,High,High,7505,2020-01-01,31.82,3350.06 kWh
+BLD-1868-JO,Residential,Alexandria,Smouha,TuesDay,Low,Low,46903m2,2024-07-20,38.02,4116.88 kWh
+BLD-1869-QT,Industrial,Cairo,Heliopolis,sunday,Low,Low,32784m2,2022-07-07,45.63,4363.9 kWh
+BLD-1870-ND,Residential,,%68Dokki,TuesDay,Low,High,4925,2023-06-24,,2724.62 kWh
+BLD-1871-ZW,Industrial,Cairo,)81New Cairo,SUNDAY,Medium,High,49151m2,2024-12-31,,6228.54 kWh
+BLD-1872-DU,Industrial,Alexandria,Gleem!20,saturDAY,Low,Medium,10826,2020-08-03,26.42,3724.42 kWh
+BLD-1873-UY,Commercial,Giza,!37Mohandessin,SaturDay,Medium,High,40559,2023-09-03,36.97,4956.67 kWh
+BLD-1874-RX,Industrial,,New Cairo$93,ThursDay,Medium,Medium,44564,2022-05-04,44.38,5646.19 kWh
+BLD-1875-GN,Residential,Alexandria,Gleem,sunDAY,Low,Low,37614,2023-12-12,40.29,3657.53 kWh
+BLD-1876-OH,Residential,Alexandria,=20Gleem,thursday,Medium,High,9446m2,2020-01-01,27.62,3290.94 kWh
+BLD-1877-NK,Residential,Cairo,@Maadi27,saturDAY,High,High,10722m2,2020-04-06,,3496.97 kWh
+BLD-1878-OM,,Cairo,Maadi-80,SaturDay,Medium,Low,30045m2,2020-11-21,30.33,3364.13 kWh
+BLD-1879-NX,Industrial,Giza,#Mohandessin52,SuNday,Low,High,41735m2,2022-03-07,47.98,5340.39 kWh
+BLD-1880-DK,Commercial,Giza,Mohandessin#58,Sunday,Low,Low,20346,2020-01-01,39.05,2924.87 kWh
+BLD-1881-NK,Residential,Alexandria,^Gleem49,monDAY,Low,Medium,6395m2,2020-01-01,22.64,2495.93 kWh
+BLD-1882-VI,Commercial,Alexandria,!Smouha74,sunday,High,High,30587m2,2023-04-01,37.54,4873 kWh
+BLD-1883-LE,Industrial,Giza,Mohandessin_39,SunDay,High,High,20522m2,2023-07-05,45.77,5088.21 kWh
+BLD-1884-VP,,Alexandria,Smouha-81,Tuesday,Medium,High,40387m2,2022-09-24,46.8,5518.13 kWh
+BLD-1885-CC,Industrial,Alexandria,!33Gleem,wednesday,Low,Low,15751m2,2020-01-11,39.81,3542.19 kWh
+BLD-1886-CC,Commercial,Giza,Mohandessin,TuEsday,Medium,Low,18158,2020-02-29,33.08,3372.41 kWh
+BLD-1887-ND,Industrial,,Mohandessin,SUNDAY,Medium,High,20194,2021-10-09,38.26,4895.61 kWh
+BLD-1888-XX,Residential,Giza,-Mohandessin88,wednESDAY,High,High,8304m2,2020-04-17,35.58,3771.12 kWh
+BLD-1889-LZ,Residential,,)86Maadi,sunday,Low,Low,3724,2020-01-01,,1915.37 kWh
+BLD-1890-ER,Commercial,Alexandria,Smouha%80,saturday,Medium,Medium,10382m2,2020-01-13,,3699.65 kWh
+BLD-1891-BS,Residential,Alexandria,Smouha,SaturDay,Medium,Low,29930m2,2020-04-15,34.28,3621.53 kWh
+BLD-1892-RR,Commercial,Giza,+19Mohandessin,Saturday,Medium,High,42399m2,2023-08-19,47.38,5332.5 kWh
+BLD-1893-KV,Residential,Alexandria,=28Gleem,SaTurday,High,Medium,33630m2,2023-09-22,43.44,4620.93 kWh
+BLD-1894-DN,Commercial,,Smouha,tuesday,Medium,Low,26931m2,2024-07-19,39.31,3798.62 kWh
+BLD-1895-LV,Residential,Alexandria,Gleem*66,saturDAY,Medium,Low,4314m2,2021-12-05,26.92,2330.09 kWh
+BLD-1896-YN,Residential,Giza,*Mohandessin8,wednesday,High,Low,27185,2024-09-14,,3921.95 kWh
+BLD-1897-XB,Residential,Cairo,Maadi=63,wednesday,Low,High,23999m2,2021-04-21,31.84,3490.41 kWh
+BLD-1898-JT,Residential,Alexandria,(Smouha50,ThursDay,Low,Low,16835,2022-07-13,30.82,2554.39 kWh
+BLD-1899-JL,Commercial,Cairo,Maadi,thursday,High,Low,17587m2,2023-04-24,28.55,3658.93 kWh
+BLD-1900-DS,Residential,Alexandria,&Smouha64,Tuesday,Low,Medium,12439,2021-01-09,29.6,2966.16 kWh
+BLD-1901-QG,Residential,,Heliopolis-35,FriDay,Medium,Low,28132m2,2021-06-19,29.61,3522.9 kWh
+BLD-1902-EV,Commercial,Cairo,New Cairo!13,SUNDAY,Medium,Medium,46889m2,2024-12-31,,5359.1 kWh
+BLD-1903-PH,,Cairo,*Maadi18,FRIDAY,Medium,Low,49401,2021-06-21,44.97,4787.86 kWh
+BLD-1904-DL,Residential,,!New Cairo99,TuEsday,Low,Medium,26059m2,2021-06-13,30.55,3249.48 kWh
+BLD-1905-RL,Residential,Cairo,Heliopolis$29,THursday,High,High,5306,2020-09-15,29.77,3229.31 kWh
+BLD-1906-DY,,Giza,%Mohandessin9,SaTurday,Low,Low,15652m2,2022-03-01,24.56,3408.98 kWh
+BLD-1907-IS,,,+84Smouha,TuesDay,High,Medium,37880m2,2021-04-05,41.66,4640.37 kWh
+BLD-1908-HZ,Commercial,Cairo,&19New Cairo,Tuesday,High,Medium,25553m2,2021-06-20,41.17,4635.4 kWh
+BLD-1909-NR,Commercial,Alexandria,=Smouha87,FriDay,Low,Medium,45741m2,2021-04-03,50.0,5063.9 kWh
+BLD-1910-YT,Residential,Alexandria,(86Gleem,SaturDay,Low,Low,35701,2020-07-04,30.88,3665.55 kWh
+BLD-1911-TV,,Cairo,(33New Cairo,WednesDay,Medium,Low,26789m2,2024-04-27,31.98,3459.45 kWh
+BLD-1912-UR,Residential,Alexandria,%Smouha25,SunDay,Medium,High,34749m2,2021-06-21,38.0,4410.42 kWh
+BLD-1913-AT,Industrial,,Smouha$48,tuesday,Low,High,8570,2021-11-07,40.41,3833.81 kWh
+BLD-1914-VW,Industrial,Giza,Mohandessin,monDAY,Medium,Medium,31773m2,2024-09-30,40.03,4988.57 kWh
+BLD-1915-IA,Residential,,%7Dokki,SuNday,High,High,32654,2024-06-13,39.85,4687.39 kWh
+BLD-1916-FI,Industrial,Alexandria,(29Gleem,saturDAY,High,Medium,48417m2,2024-12-31,50.0,6146.35 kWh
+BLD-1917-WY,Residential,Giza,)70Dokki,FRIDAY,Low,High,44960m2,2021-12-09,,4449.66 kWh
+BLD-1918-JK,Residential,Cairo,Heliopolis,TuEsday,Medium,High,14047m2,2023-09-22,29.39,3525.66 kWh
+BLD-1919-LA,Residential,,Smouha,Monday,Medium,High,26712,2021-12-12,36.6,4224.59 kWh
+BLD-1920-FE,Commercial,,)97New Cairo,wednesday,High,High,11872m2,2023-07-16,38.55,3900.25 kWh
+BLD-1921-SV,Industrial,,Mohandessin+1,SATURDAY,High,Low,11622,2022-10-22,29.5,3965.05 kWh
+BLD-1922-MC,Residential,,&20Maadi,saturDAY,High,High,9577,2023-11-19,33.53,3773.61 kWh
+BLD-1923-EX,Industrial,,Smouha,MoNday,Medium,High,838m2,2020-01-01,29.42,3715.45 kWh
+BLD-1924-UA,Commercial,Cairo,Heliopolis%41,friDAY,High,Low,10016,2020-09-19,36.23,3437.74 kWh
+BLD-1925-CX,Residential,Alexandria,Gleem,TUESDAY,Medium,Medium,13487,2020-04-25,21.92,3101.02 kWh
+BLD-1926-QG,Residential,Alexandria,Gleem#40,WeDnesday,Low,Low,15399m2,2020-01-01,,2478.55 kWh
+BLD-1927-MN,,Alexandria,+Smouha21,SATURDAY,Medium,Low,16978m2,2022-06-29,33.23,3546.62 kWh
+BLD-1928-OK,Commercial,Giza,_Mohandessin7,friday,Low,Low,11746,2020-01-01,34.47,2883.5 kWh
+BLD-1929-FL,Residential,Giza,-83Dokki,wednesday,Low,Low,32913m2,2021-01-10,30.93,3496.82 kWh
+BLD-1930-JX,Industrial,Giza,_12Mohandessin,Sunday,Medium,High,49582,2024-06-30,45.38,6188.4 kWh
+BLD-1931-KY,Industrial,Alexandria,Gleem*16,FriDay,High,Low,48802,2024-12-31,50.0,5948.34 kWh
+BLD-1932-ST,Commercial,Alexandria,Gleem,SuNday,Medium,Medium,42152,2022-12-13,33.14,4859.08 kWh
+BLD-1933-CB,,Cairo,New Cairo,SaTurday,Low,Medium,31980m2,2022-06-19,25.23,4126.84 kWh
+BLD-1934-EF,Industrial,,*20Smouha,sunDAY,High,Medium,22304m2,2024-03-15,41.75,4878.26 kWh
+BLD-1935-YT,Residential,Alexandria,Gleem,SunDay,Medium,Low,49958m2,2022-12-20,34.22,4346.16 kWh
+BLD-1936-BV,,,%2Gleem,sunDAY,Low,Low,5353,2020-01-01,21.49,2667.44 kWh
+BLD-1937-CI,Industrial,Alexandria,Smouha,SunDay,Medium,High,44913,2024-12-31,50.0,6130.17 kWh
+BLD-1938-OV,,Cairo,New Cairo&58,SATURDAY,High,High,27157m2,2023-10-15,39.66,4682.44 kWh
+BLD-1939-NP,Commercial,Giza,Mohandessin,THURSDAY,High,Medium,15860m2,2022-11-12,33.98,4351.81 kWh
+BLD-1940-TO,Industrial,Cairo,Maadi_44,SunDay,Medium,Low,9823,2023-07-02,24.38,3322.79 kWh
+BLD-1941-NI,Residential,Giza,Mohandessin,Saturday,High,Medium,47324m2,2021-08-11,42.46,4678.75 kWh
+BLD-1942-GY,Residential,Alexandria,*18Gleem,SUNDAY,High,Low,48785,2024-11-08,42.19,4796.83 kWh
+BLD-1943-QD,Commercial,Cairo,Maadi^97,Sunday,Low,Medium,16063m2,2021-10-23,28.99,3208.59 kWh
+BLD-1944-LN,Commercial,Giza,(Dokki16,TUESDAY,Medium,Medium,10593m2,2022-02-27,,3161.9 kWh
+BLD-1945-DJ,Industrial,Alexandria,=Smouha67,FRIday,Medium,High,37511,2024-12-31,39.86,5669.86 kWh
+BLD-1946-VV,Commercial,Giza,Dokki#73,sunday,Low,High,32696m2,2023-11-08,30.21,4443.15 kWh
+BLD-1947-SP,Commercial,Giza,^29Dokki,thursday,High,Medium,25564,2024-12-31,36.19,4802.21 kWh
+BLD-1948-QV,Residential,,(New Cairo0,SaTurday,High,Medium,36624,2024-12-31,-0.05,4518.97 kWh
+BLD-1949-JB,Commercial,,Mohandessin%64,SunDay,Medium,Low,38284,2022-11-07,37.72,4370.44 kWh
+BLD-1950-HM,Commercial,Giza,Mohandessin,thursDAY,Low,Low,28904,2022-12-09,29.69,3424.66 kWh
+BLD-1951-TB,Commercial,Giza,=Dokki98,monday,Low,High,9700m2,2021-05-26,31.57,3297.91 kWh
+BLD-1952-AG,,Cairo,&45Heliopolis,SATURDAY,Medium,High,26899m2,2021-08-17,34.76,4977.79 kWh
+BLD-1953-JG,Industrial,Alexandria,Smouha,THURSDAY,Medium,Medium,1422m2,2021-04-04,37.47,3457.17 kWh
+BLD-1954-YE,Commercial,,Gleem(78,sunday,High,High,39065m2,2023-08-10,43.67,5568.44 kWh
+BLD-1955-YI,,Giza,Dokki,monday,High,Low,2328m2,2021-05-09,33.88,3114.61 kWh
+BLD-1956-JK,Residential,Cairo,+51New Cairo,saturDAY,Medium,High,27484m2,2020-06-17,36.87,4160.27 kWh
+BLD-1957-DA,Residential,Giza,Mohandessin,sunday,Medium,Low,20415m2,2022-05-29,29.06,2815.34 kWh
+BLD-1958-PX,Commercial,Giza,Dokki,ThursDay,High,Low,33620m2,2022-03-18,41.53,4748.66 kWh
+BLD-1959-NF,Industrial,Cairo,Heliopolis,tuesDAY,Low,High,18102,2024-10-09,,4207.14 kWh
+BLD-1960-EM,Industrial,Giza,Dokki#89,SuNday,High,Medium,9708,2022-05-05,37.28,4008.78 kWh
+BLD-1961-RW,Residential,Cairo,Maadi^90,SaTurday,Low,Low,16532,2022-12-25,31.69,2605.98 kWh
+BLD-1962-HQ,,,Gleem,tuesday,High,Low,34516,2021-11-15,42.71,5209.3 kWh
+BLD-1963-RV,Commercial,Giza,$16Dokki,THURSDAY,Medium,Medium,36237,2023-10-07,41.38,4622.54 kWh
+BLD-1964-ZL,Residential,,)Dokki60,SaTurday,High,Low,31061m2,2022-06-20,,4274.73 kWh
+BLD-1965-CM,Commercial,Cairo,New Cairo,sunday,High,Medium,20991m2,2022-11-07,42.68,4300.28 kWh
+BLD-1966-XB,Commercial,Alexandria,)Smouha24,WednesDay,Low,High,21306,2020-05-31,30.61,3889.08 kWh
+BLD-1967-NA,Commercial,Cairo,=Maadi65,FriDay,Low,High,3889m2,2022-08-20,36.97,3115.68 kWh
+BLD-1968-OC,Residential,Alexandria,Smouha,SUNDAY,Low,Medium,11802,2020-01-01,27.15,2868.84 kWh
+BLD-1969-KS,Residential,Giza,Mohandessin%29,thursDAY,Low,Low,7509,2020-01-20,20.0,2532.88 kWh
+BLD-1970-NS,Commercial,Alexandria,%Gleem98,WEDNESDAY,High,Low,39350m2,2022-03-04,40.77,4946.38 kWh
+BLD-1971-MW,Residential,Alexandria,=33Smouha,wednesday,Medium,High,44142m2,2024-12-31,37.36,4983 kWh
+BLD-1972-UN,Commercial,Cairo,New Cairo^22,TUESDAY,High,Low,29759,2023-01-11,41.94,4616.56 kWh
+BLD-1973-JD,Industrial,,$Maadi31,wednESDAY,High,Low,21927m2,2023-09-29,35.29,4628.8 kWh
+BLD-1974-MA,Residential,Alexandria,-Smouha25,Saturday,Low,High,47564m2,2021-03-21,37.66,4860.8 kWh
+BLD-1975-KF,Industrial,Cairo,&Heliopolis52,MONDAY,High,High,7145,2021-06-30,27.14,4211.11 kWh
+BLD-1976-ZT,Residential,,Smouha%3,monDAY,Low,Low,17153,2022-10-24,22.07,2347.37 kWh
+BLD-1977-OW,Commercial,Alexandria,)22Smouha,sunDAY,High,Low,12245m2,2023-12-28,20.0,3428.02 kWh
+BLD-1978-LC,Industrial,Giza,&86Dokki,Sunday,Medium,Medium,42398m2,2023-06-28,35.55,5348.31 kWh
+BLD-1979-ND,Commercial,Giza,_Dokki81,friDAY,Medium,Medium,8936,2020-06-08,33.05,3240.14 kWh
+BLD-1980-HN,Commercial,,Maadi#6,saturDAY,Low,Low,21788,2020-11-09,33.98,3371.6 kWh
+BLD-1981-SM,Commercial,Giza,Dokki,SuNday,Low,Low,20494m2,2020-01-01,31.95,3305.06 kWh
+BLD-1982-QC,,,New Cairo*59,Saturday,High,High,20478m2,2024-04-29,,5040.46 kWh
+BLD-1983-MJ,,Alexandria,Gleem,WEDNESDAY,Medium,High,2470m2,2022-03-06,28.79,3138.81 kWh
+BLD-1984-XK,Residential,Giza,Mohandessin&74,Saturday,Medium,High,1045m2,2021-11-17,27.81,2948.69 kWh
+BLD-1985-HK,Industrial,Cairo,+Maadi18,SATURDAY,High,Medium,29029m2,2024-12-31,36.94,5262.76 kWh
+BLD-1986-YF,Commercial,Giza,Dokki#24,SuNday,Medium,Low,5099,2020-08-17,32.95,2683.73 kWh
+BLD-1987-CQ,Commercial,,Dokki#18,thursDAY,Medium,Low,36908m2,2023-11-02,41.57,4531.32 kWh
+BLD-1988-UD,Industrial,Giza,^32Mohandessin,SUNDAY,Medium,Low,30281m2,2024-12-31,37.13,4611.73 kWh
+BLD-1989-QQ,Residential,,(Dokki79,FriDay,Medium,Medium,48775m2,2024-09-18,40.52,4979.87 kWh
+BLD-1990-GY,Industrial,Giza,@Dokki76,Thursday,High,High,48337,2023-12-24,50.0,6458.51 kWh
+BLD-1991-LL,Industrial,Alexandria,Gleem,Monday,High,Medium,34893m2,2024-10-16,35.26,5633.76 kWh
+BLD-1992-XU,Commercial,Cairo,*75Maadi,saturday,Medium,Medium,5280m2,2020-01-01,27.78,3121.19 kWh
+BLD-1993-EH,,,-Dokki45,saturDAY,Medium,Low,15828m2,2020-01-01,24.36,2883.63 kWh
+BLD-1994-DE,Residential,Alexandria,!89Gleem,saturDAY,Medium,Low,26212,2023-03-25,24.04,3064.11 kWh
+BLD-1995-IG,Residential,,#29Smouha,SuNday,High,High,14419,2020-09-14,30.97,3661.21 kWh
+BLD-1996-FT,Industrial,Alexandria,Smouha#3,SUNDAY,Low,Medium,12194m2,2022-09-01,39.62,3546.34 kWh
+BLD-1997-EY,,Giza,_Dokki88,monDAY,High,Medium,39562m2,2022-12-02,44.32,5147.21 kWh
+BLD-1998-YU,Residential,Cairo,$12Heliopolis,SuNday,High,High,8348,2020-06-01,27.09,3244.98 kWh
+BLD-1999-CF,Commercial,,)44Dokki,SaturDay,Medium,Low,15813m2,2021-05-24,33.34,3423.63 kWh
+BLD-2000-YU,Residential,Alexandria,#47Smouha,MonDay,Low,Low,24563m2,2022-12-16,33.61,2865.57 kWh
+BLD-2001-PO,Commercial,Alexandria,+18Smouha,SaturDay,Medium,Medium,27583m2,2023-03-24,40.25,4283.8 kWh
+BLD-2002-YS,Commercial,Alexandria,_62Smouha,thursday,Low,High,45313m2,2021-03-15,41.21,5067.83 kWh
+BLD-2003-YS,Residential,Cairo,-New Cairo25,Saturday,High,Low,41625,2022-12-19,35.29,4624.3 kWh
+BLD-2004-OV,Residential,Alexandria,Smouha&74,FRIday,Medium,High,36720,2022-05-13,42.56,4820.59 kWh
+BLD-2005-SU,,Alexandria,Smouha,TuEsday,Medium,Medium,31207,2021-10-11,42.46,5026.23 kWh
+BLD-2006-UT,Residential,Cairo,New Cairo,SunDay,Low,High,39227,2024-12-15,40.87,4404.56 kWh
+BLD-2007-KU,Residential,Giza,#89Dokki,wednESDAY,Low,Medium,7814m2,2020-11-02,27.26,2394.37 kWh
+BLD-2008-KE,,Alexandria,Smouha(97,Sunday,Low,Low,20482m2,2024-05-09,38.87,3969.09 kWh
+BLD-2009-OC,Industrial,Cairo,*Heliopolis46,FRIday,High,High,21030m2,2022-09-25,38.96,5136.69 kWh
+BLD-2010-PO,Commercial,Cairo,New Cairo@60,SaturDay,High,Low,41401m2,2024-12-31,47.46,5162.33 kWh
+BLD-2011-UJ,Industrial,Cairo,Maadi,SunDay,Low,High,6279m2,2020-10-12,34.05,3810.09 kWh
+BLD-2012-ZI,Industrial,Alexandria,@8Gleem,SATURDAY,Low,Medium,31963,2024-12-31,46.15,4400.48 kWh
+BLD-2013-SB,Commercial,Giza,Mohandessin@14,Tuesday,High,High,29187,2023-07-19,37.37,4991.64 kWh
+BLD-2014-LQ,Industrial,Giza,)Dokki14,SunDay,High,Medium,13990m2,2021-05-29,45.09,4474.98 kWh
+BLD-2015-CJ,Residential,Alexandria,$77Smouha,FRIDAY,Low,High,8157m2,2021-05-09,26.98,2668.06 kWh
+BLD-2016-OO,Industrial,Alexandria,Smouha,wednESDAY,High,Medium,27165m2,2021-11-22,37.52,4987.52 kWh
+BLD-2017-BB,,,Gleem+52,SaturDay,Medium,High,5819,2023-05-17,32.41,4039.98 kWh
+BLD-2018-LJ,Residential,,!Dokki81,TUESDAY,High,High,6155m2,2022-09-14,29.11,3388.29 kWh
+BLD-2019-CU,Commercial,Alexandria,%Gleem24,SUNDAY,Medium,Low,33233m2,2020-09-03,36.67,4068.94 kWh
+BLD-2020-CT,Industrial,Alexandria,Smouha@39,Saturday,Medium,Low,24762,2021-12-30,39.04,4379.87 kWh
+BLD-2021-TQ,Commercial,,(Gleem42,SaTurday,High,High,25925m2,2024-10-15,37.46,4921.73 kWh
+BLD-2022-MO,Industrial,Alexandria,Gleem$16,SATURDAY,Low,Low,42729,2024-01-30,41.14,5116.9 kWh
+BLD-2023-SR,,Giza,+56Mohandessin,SaturDay,High,Medium,18150m2,2024-12-31,-2.13,4656.29 kWh
+BLD-2024-ZX,Industrial,Cairo,+13New Cairo,saturday,Medium,Medium,42767m2,2024-06-04,50.0,5508.64 kWh
+BLD-2025-BO,Residential,Giza,%Dokki24,MonDay,High,Low,35650,2023-01-30,37.57,4205.35 kWh
+BLD-2026-ZS,Residential,Giza,Mohandessin=63,SunDay,Low,Medium,40486m2,2020-03-30,36.21,4275.65 kWh
+BLD-2027-UG,Commercial,,@69Maadi,SaturDay,Low,Low,44253m2,2021-08-05,,4491.97 kWh
+BLD-2028-KT,Commercial,Cairo,New Cairo,friDAY,Low,Medium,27582,2022-02-02,,3999.14 kWh
+BLD-2029-PQ,Commercial,Alexandria,Smouha,sunDAY,Low,High,21162m2,2022-09-03,28.24,3758.95 kWh
+BLD-2030-EB,Industrial,Alexandria,#Gleem31,SUNDAY,Medium,Medium,27708m2,2024-06-15,38.0,4779.08 kWh
+BLD-2031-OD,Residential,,Gleem,FriDay,Low,High,44539m2,2021-11-21,30.56,4603.83 kWh
+BLD-2032-ZK,Commercial,Giza,$Dokki7,THURSDAY,High,High,49354,2024-12-31,48.78,6042.56 kWh
+BLD-2033-WC,Commercial,Alexandria,_44Smouha,Saturday,Low,Low,19926m2,2020-11-09,34.21,3509.64 kWh
+BLD-2034-QU,Residential,Giza,*Dokki30,SUNDAY,Low,Medium,28070m2,2022-04-18,29.68,3598.87 kWh
+BLD-2035-FB,Commercial,Alexandria,-84Gleem,Sunday,Low,High,22797m2,2022-11-24,41.44,4003.54 kWh
+BLD-2036-HW,Residential,Alexandria,$Smouha87,WeDnesday,Low,Medium,45412m2,2022-07-29,30.02,4193.36 kWh
+BLD-2037-OO,Industrial,Alexandria,Smouha,sunday,Low,Low,29331,2022-12-13,27.18,3908 kWh
+BLD-2038-QQ,,Alexandria,#Gleem84,SaturDay,Low,High,2743,2020-01-01,25.48,2405.34 kWh
+BLD-2039-TF,Commercial,Alexandria,Smouha@32,Friday,Medium,High,45772m2,2023-03-10,49.02,5611.18 kWh
+BLD-2040-LL,Residential,,+New Cairo92,saturday,High,High,39327m2,2023-05-05,46.8,4789.37 kWh
+BLD-2041-JM,Residential,Alexandria,_Gleem38,saturDAY,High,High,11546m2,2022-10-23,31.28,3840.2 kWh
+BLD-2042-NY,Residential,Alexandria,&Smouha41,WeDnesday,Medium,High,39390,2022-11-24,44.75,4897.66 kWh
+BLD-2043-KV,Residential,,Gleem,SUNDAY,High,Low,38141,2023-11-15,36.82,4428.85 kWh
+BLD-2044-TB,Residential,Cairo,%77New Cairo,sunday,Medium,Medium,36642,2021-02-02,35.27,4276.25 kWh
+BLD-2045-ZU,Residential,Giza,Dokki,Sunday,High,High,5444m2,2020-08-27,35.26,3506.64 kWh
+BLD-2046-UK,Industrial,Giza,Mohandessin$78,FriDay,Low,Medium,40885,2022-06-04,,5172.77 kWh
+BLD-2047-CK,Residential,,Dokki,FRIday,Medium,Low,11985,2023-04-05,20.0,2731.87 kWh
+BLD-2048-DR,Residential,Cairo,New Cairo(99,sunDAY,Medium,Medium,16582m2,2020-04-18,35.8,3163.44 kWh
+BLD-2049-VM,Residential,Cairo,New Cairo^39,friDAY,High,High,19422m2,2021-09-12,41.47,4149.12 kWh
+BLD-2050-JI,Residential,Giza,Mohandessin$9,saturday,Low,Low,24210,2022-08-07,26.32,3160.27 kWh
+BLD-2051-XV,Residential,Cairo,^Maadi53,tuesday,Low,High,34256,2021-08-08,,4294.59 kWh
+BLD-2052-TE,Commercial,Cairo,Maadi^23,THURSDAY,High,High,29873m2,2023-09-14,44.46,5275.92 kWh
+BLD-2053-KC,Residential,,_73Maadi,saturDAY,Medium,High,7924,2023-05-25,29.77,3072.63 kWh
+BLD-2054-SV,Industrial,Cairo,=17Heliopolis,monDAY,Medium,Low,7070,2021-01-09,29.57,3629.61 kWh
+BLD-2055-EL,Industrial,Giza,(Dokki54,SuNday,Low,High,36496m2,2024-11-19,37.6,5014.79 kWh
+BLD-2056-JU,Residential,Alexandria,-76Gleem,saturDAY,High,Low,9655m2,2020-01-01,28.02,2998.47 kWh
+BLD-2057-WV,Commercial,Alexandria,@88Gleem,SUNDAY,Medium,Medium,40452m2,2022-02-26,45.7,4983.43 kWh
+BLD-2058-ME,,Cairo,New Cairo(79,WednesDay,Medium,Medium,40542m2,2021-08-11,,4707.07 kWh
+BLD-2059-TW,,Giza,)Mohandessin23,SUNDAY,High,Low,11498m2,2020-01-02,25.69,2872.05 kWh
+BLD-2060-CJ,Residential,Alexandria,*Gleem53,Sunday,Low,High,1306m2,2021-07-02,-4.68,2351.97 kWh
+BLD-2061-RM,,,Smouha,Thursday,Medium,Low,46494m2,2024-12-31,28.71,5161.94 kWh
+BLD-2062-UZ,Residential,Cairo,Maadi,sunday,High,Medium,21408,2024-01-28,36.8,3562.43 kWh
+BLD-2063-KE,Residential,Alexandria,+Gleem36,WEDNESDAY,Low,High,1636,2021-11-10,20.0,2725.89 kWh
+BLD-2064-VW,Commercial,Giza,=Mohandessin8,SATURDAY,Low,High,48114m2,2024-07-25,41.04,5346.06 kWh
+BLD-2065-XV,Industrial,Giza,_96Mohandessin,SuNday,High,High,28465m2,2021-09-27,38.25,5446 kWh
+BLD-2066-QC,Industrial,Alexandria,+57Smouha,saturday,High,Low,18350m2,2022-01-30,32.07,4575.58 kWh
+BLD-2067-UV,Industrial,Giza,=Dokki88,TuEsday,Medium,Medium,13088,2023-05-13,-1.31,4046.88 kWh
+BLD-2068-NQ,Commercial,,_Smouha54,SunDay,Low,Medium,11553m2,2020-04-01,26.29,3039.52 kWh
+BLD-2069-LA,Residential,Giza,&Mohandessin1,SUNDAY,Low,Low,38099,2021-04-06,34.93,3844 kWh
+BLD-2070-LJ,Industrial,Alexandria,Smouha)14,SaTurday,Medium,High,5908m2,2022-06-17,34.76,4103.39 kWh
+BLD-2071-FG,Industrial,Cairo,New Cairo)88,sunDAY,High,High,17868,2024-12-31,40.95,4721.39 kWh
+BLD-2072-KY,Commercial,,$Mohandessin56,monDAY,High,Medium,38141m2,2022-03-21,42.94,5334.33 kWh
+BLD-2073-PG,Commercial,Cairo,$Maadi82,MONDAY,Low,High,26715m2,2022-01-17,31.72,4510.2 kWh
+BLD-2074-HE,Industrial,Cairo,#Maadi62,WednesDay,High,Low,14218m2,2022-09-20,38.88,4009.8 kWh
+BLD-2075-EC,Commercial,Cairo,New Cairo^56,FRIDAY,Medium,Medium,9405m2,2023-01-13,,3375.06 kWh
+BLD-2076-JZ,Residential,Alexandria,^Gleem12,thursDAY,High,High,26158m2,2024-03-23,-1.5,4618.77 kWh
+BLD-2077-DQ,Industrial,Alexandria,Gleem$4,Wednesday,Medium,Low,38856m2,2022-08-13,38.22,4939.07 kWh
+BLD-2078-YR,Residential,,=Smouha70,Saturday,Low,High,17982m2,2020-04-08,35.6,3112.64 kWh
+BLD-2079-XQ,Commercial,Cairo,$Maadi95,WednesDay,Low,Medium,40337m2,2022-12-03,41.95,4612.04 kWh
+BLD-2080-BV,Residential,Alexandria,=Smouha66,TuesDay,Low,High,28461m2,2020-11-09,32.65,3980.9 kWh
+BLD-2081-KY,Industrial,,Dokki+9,MonDay,Low,Low,36836,2021-11-19,35.08,4374.35 kWh
+BLD-2082-TE,Industrial,Giza,^43Mohandessin,FRIday,Low,Medium,20517m2,2020-11-09,33.2,4050.8 kWh
+BLD-2083-TM,Industrial,Alexandria,Gleem+78,Friday,Medium,Medium,47042m2,2022-12-08,50.0,5900.32 kWh
+BLD-2084-EF,Residential,Cairo,=Heliopolis95,Wednesday,Medium,Low,31487m2,2020-01-01,34.16,3694.52 kWh
+BLD-2085-FW,,Giza,Dokki,Sunday,High,Low,33413m2,2024-12-31,40.31,4652.65 kWh
+BLD-2086-YT,Industrial,Giza,Dokki,Monday,High,High,19750m2,2024-12-31,45.26,5016.11 kWh
+BLD-2087-ZF,Industrial,,)6Smouha,sunDAY,Low,Low,9684,2023-02-06,30.01,3127.82 kWh
+BLD-2088-XO,Industrial,Alexandria,Smouha,SunDay,High,High,21087m2,2024-11-17,40.47,5179.49 kWh
+BLD-2089-BN,Commercial,Cairo,*20New Cairo,ThursDay,Medium,Medium,19940m2,2023-05-28,33.46,4001.96 kWh
+BLD-2090-LV,Residential,,Gleem@0,monday,Low,Low,31178,2023-09-08,30.62,3451.58 kWh
+BLD-2091-XH,Residential,Alexandria,Gleem)82,SuNday,High,Low,33642,2020-01-01,34.03,3977.63 kWh
+BLD-2092-OT,Residential,,#Heliopolis65,WednesDay,High,Low,34160,2024-01-16,36.56,3830.68 kWh
+BLD-2093-JY,,Giza,Mohandessin,Saturday,High,High,2091m2,2024-11-10,36.12,4250.29 kWh
+BLD-2094-XZ,Industrial,Cairo,*6New Cairo,SATURDAY,Low,Low,30211,2023-08-27,38.48,4137.66 kWh
+BLD-2095-OH,Commercial,Giza,(Dokki50,Saturday,High,Low,1161m2,2022-04-21,27.85,3010.81 kWh
+BLD-2096-RH,Residential,,Dokki-71,Sunday,Medium,Medium,37943m2,2024-10-31,36.23,4248.49 kWh
+BLD-2097-JZ,Commercial,Giza,_Mohandessin91,SunDay,Low,Medium,1558,2021-04-18,20.0,2843.6 kWh
+BLD-2098-ZP,Industrial,Alexandria,*23Smouha,saturday,Medium,Low,2145,2023-09-14,34.43,3348.39 kWh
+BLD-2099-GL,Residential,Cairo,-New Cairo52,friDAY,High,Medium,42414,2020-12-09,40.37,4722.59 kWh
